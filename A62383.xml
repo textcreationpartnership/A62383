@@ -1,0 +1,1049 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Memorials of the method and maner of proceedings in Parliament in passing bills Together with several rules and customs, which by long and constant practice have obtained the name of Orders of the House. Gathered by observation, and out of the journal books from the time of Edward 6. By H. S. E. C.P.</title>
+            <author>Scobell, Henry, d. 1660.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1656</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 135 KB of XML-encoded text transcribed from 63 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A62383</idno>
+            <idno type="STC">Wing S922</idno>
+            <idno type="STC">ESTC R219927</idno>
+            <idno type="EEBO-CITATION">99831374</idno>
+            <idno type="PROQUEST">99831374</idno>
+            <idno type="VID">35837</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A62383)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 35837)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2043:11)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Memorials of the method and maner of proceedings in Parliament in passing bills Together with several rules and customs, which by long and constant practice have obtained the name of Orders of the House. Gathered by observation, and out of the journal books from the time of Edward 6. By H. S. E. C.P.</title>
+                  <author>Scobell, Henry, d. 1660.</author>
+               </titleStmt>
+               <extent>116, [4] p.   </extent>
+               <publicationStmt>
+                  <publisher>printed by Henry Hills and John Field, printers to His Highness,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1656.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>H.S. = Henry Scobell.</note>
+                  <note>With two final contents leaves.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Parliament --  Rules and practice --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-06</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2011-06</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:35837:1" rendition="simple:additions"/>
+            <p>MEMORIALS OF THE Method and Maner OF Proceedings in Parliament in paſſing BILLS. Together with ſeveral Rules and Cuſtoms, which by long and con<g ref="char:EOLhyphen"/>ſtant practice have obtained the Name of <hi>Orders of the Houſe.</hi> GATHERED By Obſervation, and out of the Journal Books from the time of <hi>Edward</hi> 6.</p>
+            <p>By <hi>H. S.</hi> E. C. P.</p>
+            <p>
+               <hi>London,</hi> Printed by <hi>Henry Hills</hi> and <hi>John Field,</hi> Printers to His Highneſs, 1656.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <div n="1" type="chapter">
+               <pb facs="tcp:35837:2"/>
+               <pb facs="tcp:35837:2" rendition="simple:additions"/>
+               <pb facs="tcp:35837:3"/>
+               <pb facs="tcp:35837:3" rendition="simple:additions"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb facs="tcp:35837:4"/>
+               <pb n="3" facs="tcp:35837:4"/>
+               <head>
+                  <hi>CHAP. I.</hi> The maner of chuſing a Speaker in Parliament.</head>
+               <p>THe day the Speaker is choſen, the Proceeding hath been in this maner: Some perſons (when the generality of Mem<g ref="char:EOLhyphen"/>bers are come and ſit) doth put the Houſe in minde, That for their better proceed<g ref="char:EOLhyphen"/>ings in the weighty Affairs they are come about, their firſt work is to appoint a Speaker, and recommends to the Houſe ſome Perſon of fitneſs and ability for that Service and Dignity, which uſually hath been one of the long Robe. If the Houſe generally give a teſtimony of their appro<g ref="char:EOLhyphen"/>bation, two of the Members (which for the moſt part were of the Council or chief Officer of the Court) going to the Gen<g ref="char:EOLhyphen"/>tleman named, and agreed to be Speaker, take him from his Place and lead him un<g ref="char:EOLhyphen"/>to the Chair, where being ſet, they return to their places.</p>
+               <p>If more then one perſon be named for Speaker, and it be doubtful who is more
+<pb n="4" facs="tcp:35837:5"/>generally choſen; ſometimes one of the Members ſtanding in his place, doth by direction or leave of the Houſe, put a Queſtion for determining the ſame.</p>
+               <p>In the firſt Seſſion of the Parliament 1<hi rend="sup">o</hi> 
+                  <hi>Jacobi,</hi> Sir <hi>Edward Phelips</hi> the Kings Serjeant at Law was firſt named by Mr. Secretary <hi>Herbert,</hi> as fit for that place, in regard of his knowledge of the Laws, the gift of Utterance, his long experience and practice in Parliament; after ſome ſilence, the names of others were menti<g ref="char:EOLhyphen"/>oned, but the more general Voice ran up<g ref="char:EOLhyphen"/>on Sir <hi>Edward Phelips,</hi> who thereupon ſtood up, and made a Speech to excuſe and diſable himſelf; but the Houſe, not<g ref="char:EOLhyphen"/>withſtanding his excuſe, was willing to proceed to a Queſtion, and directed the Clerk, ſitting at the Board, (as the Order is before the Speaker be choſen, ſo it is entred in the Journal of that Seſſion) to make the Queſtion upon his name: <hi>viz. All that will have Sir</hi> Edward Phelips <hi>Speaker, ſay, Yea, &amp;c.</hi> Which done, and he being by general Acclamation choſen Speaker, he was by Sir <hi>John Herbert</hi> and Sir <hi>Edward Stafford</hi> (leading him as the form is) placed in the Chair, the ancient Seat of Speakers: where being ſet, after
+<pb n="5" facs="tcp:35837:5"/>ſome ſilence he ſtood up and made a gra<g ref="char:EOLhyphen"/>tulatory Speech of Form and Thanks.</p>
+               <p>The firſt Buſineſs in the Houſe is ordi<g ref="char:EOLhyphen"/>narily to read a Bill that was not paſſed in the laſt Parliament preceding, or ſome new Bill; as, in that of 1<hi rend="sup">o</hi> 
+                  <hi>Jacobi,</hi> a new Bill, Entituled, <hi>Touching Common Recove<g ref="char:EOLhyphen"/>ries againſt Infants,</hi> was read.</p>
+               <p>But on that day before that was done, there was a Motion made for Priviledge of Sir <hi>Thomas Shirley,</hi> who was choſen a Member to ſerve in that Parliament, but detained by an Arreſt; upon which a <hi>Ha<g ref="char:EOLhyphen"/>beas corpus</hi> was awarded, and the Serjeant that arreſted him and his Yeoman ſent for, and a Committee for Elections and Priviledges choſen.</p>
+            </div>
+            <div n="2" type="chapter">
+               <pb n="6" facs="tcp:35837:6"/>
+               <head>
+                  <hi>CHAP. II.</hi> Decorum to be obſerved in the Houſe.</head>
+               <p>WHen the Speaker is ſet in his chair, every Member is to ſit in his place with his Head covered.</p>
+               <p>No Member in coming into the Houſe, or in removing from his place, is to paſs between the Speaker and any Member then ſpeaking; nor may croſs or go over<g ref="char:EOLhyphen"/>thwart the Houſe, or paſs from one ſide to the other while the Houſe is ſitting.</p>
+               <p>No Member is to come into the Houſe with his Head covered, nor to remove from one place to another with his Hat on, nor is to put on his Hat in coming in or removing, until he be ſate down in his place.</p>
+               <p>While the Houſe is ſitting, no man ought to ſpeak or whiſper to another, to the end the Houſe may not be inter<g ref="char:EOLhyphen"/>rupted when any are ſpeaking; but every one is to attend unto what is ſpoken: In which Caſe, Penalties have been impoſed; as 4. <hi>Decem.</hi> 1640. and at other times.</p>
+               <p>When any Member intends to ſpeak, he is to ſtand up in his place uncovered,
+<pb n="7" facs="tcp:35837:6"/>and addreſs himſelf to the Speaker, who uſually calls ſuch perſon by his name, that the Houſe may take notice who it is that ſpeaks.</p>
+               <p>If more then one ſtand up at once, the Speaker is to determine who was firſt up, and he is to ſpeak, and the other ſit down, unleſs he who was firſt up ſit down again, and give way to the other, or that ſome other Member ſtand up and acquaint the Houſe, that another was up before him, whom the Speaker calls, and the Houſe adjudge it ſo.</p>
+               <p>While one is ſpeaking, none elſe is to ſtand up or interrupt him until he have done ſpeaking and be ſate down, and then any other may riſe up and ſpeak, obſer<g ref="char:EOLhyphen"/>ving the Rules.</p>
+               <p>21. <hi>Junii,</hi> 1604. It was agreed for an Order, <hi>That When Mr. Speaker deſires to ſpeak, he ought to be heard without inter<g ref="char:EOLhyphen"/>ruption, if the Houſe be ſilent and not in diſpute.</hi>
+               </p>
+               <p>12. <hi>Jacobi,</hi> It was vouched by Sir <hi>Dudley Diggs,</hi> (a perſon of much experi<g ref="char:EOLhyphen"/>ence in Parliaments) <hi>That when the Speaker ſtands up, the Member ſtanding up ought to ſit down.</hi>
+               </p>
+               <p>27. <hi>April.</hi> 1604. Agreed for a Rule,
+<pb n="8" facs="tcp:35837:7"/>
+                  <hi>That if any Queſtion be upon a Bill, the Speaker is to explain, but not to ſway the Houſe with Argument or Diſpute.</hi>
+               </p>
+               <p>
+                  <hi>June</hi> 4. 1604. Agreed for an Order, <hi>That whoſoever hiſſeth or diſturbeth any man in his Speech, ſhall anſwer it at the Bar.</hi>
+               </p>
+               <p>7. <hi>Maii,</hi> 1607. Ordered upon the Queſtion, <hi>That in going forth, no Man ſhould ſtir until Mr. Speaker do ariſe and go before, and then all the reſt to follow after him.</hi>
+               </p>
+            </div>
+            <div n="3" type="chapter">
+               <pb n="9" facs="tcp:35837:7"/>
+               <head>
+                  <hi>CHAP. III.</hi> Standing Committees.</head>
+               <p>IN Parliament there have uſually been Five Standing Committees appointed in the beginning of the Parliament, and remaining during all the Seſſion; other Committees were made occaſionally, and diſſolved after the Buſineſs committed unto them was reported.</p>
+               <list>
+                  <label>The Standing Committees are for</label>
+                  <item>
+                     <list>
+                        <item>
+                           <hi>Priviledges &amp; Elections.</hi>
+                        </item>
+                        <item>
+                           <hi>Religion.</hi>
+                        </item>
+                        <item>
+                           <hi>Grievances.</hi>
+                        </item>
+                        <item>
+                           <hi>Courts of Juſtice.</hi>
+                        </item>
+                        <item>
+                           <hi>Trade.</hi>
+                        </item>
+                     </list>
+                  </item>
+               </list>
+               <p>The Committees for Religion, Grie<g ref="char:EOLhyphen"/>vances and Courts of Juſtice, are always <hi>Grand Committees</hi> of the Houſe, which are to ſit in the Afternoons upon ſuch Days as the Houſe doth appoint to them reſpectively.</p>
+               <p>The Committee for Trade hath ſome<g ref="char:EOLhyphen"/>times been a ſelect Committee particular<g ref="char:EOLhyphen"/>ly named, and all ſuch Members as ſhould come to it, to have Voices, as in <hi>Novem<g ref="char:EOLhyphen"/>ber,</hi> 1640. Sometimes a Grand Com<g ref="char:EOLhyphen"/>mittee of the whoſe Houſe, as 21. <hi>Iacobi.</hi>
+               </p>
+            </div>
+            <div n="4" type="chapter">
+               <pb n="10" facs="tcp:35837:8"/>
+               <head>
+                  <hi>CHAP. IV.</hi> Power and proceedings of the Com<g ref="char:EOLhyphen"/>mittee for Priviledges.</head>
+               <p>BUt the Committee for Priviledges and Elections hath alway had the precedence of all other Committees, being commonly the firſt Committee appoint<g ref="char:EOLhyphen"/>ed, and ordinarily the firſt day after, or the ſame day the Speaker did take his place.</p>
+               <p>This Committee is conſtituted of par<g ref="char:EOLhyphen"/>ticular Members named by the Houſe.</p>
+               <p>21. <hi>Iacobi,</hi> Upon naming a Committee for Priviledges and Elections, a Motion was made, That all that come ſhould have Voices: but Sir <hi>Thomas Crew</hi> then Speak<g ref="char:EOLhyphen"/>er (and well verſed in Rules of Parlia<g ref="char:EOLhyphen"/>ment) minded the Houſe, That by the Orders of the Houſe, that was not to be done; and by divers other Members it was inſiſted on, to be contrary to all for<g ref="char:EOLhyphen"/>mer Preſidents; yet upon the Debate a Queſtion was put, Whether all that ſhould come ſhould have Voices at that Committee; and it paſſed in the Negative. And another Queſtion being put, Whe<g ref="char:EOLhyphen"/>ther
+<pb n="11" facs="tcp:35837:8"/>the perſons nominated onely ſhould be of that Committee; it was reſolved in the Affirmative.</p>
+               <p>It was then alſo agreed, That <hi>Council ſhould be admitted at that Committee.</hi>
+               </p>
+               <p>The Power anciently given to this Com<g ref="char:EOLhyphen"/>mittee, appears by the Entry in the Journal Book 26. <hi>Feb.</hi> 1692. in 39. <hi>Eliz. That this Committee ſhould, during all that preſent ſitting of Parliament, examine and make report of all ſuch Caſes touching the Ele<g ref="char:EOLhyphen"/>ctions and Returns of any the Knights, Ci<g ref="char:EOLhyphen"/>tizens, Burgeſſes and Barons of the Houſe.</hi> And alſo, <hi>of all ſuch Caſes for Privi<g ref="char:EOLhyphen"/>ledge, as in any Wiſe may occur or fall out during all the ſame Seſſion of Parliament; to the end, the Houſe upon Report of the ſame Examinations, might proceed to ſuch further Courſe in every the ſame Caſes as ſhould be thought ſit.</hi>
+               </p>
+               <p>And notice was given, That all the Members of the Houſe might repair thi<g ref="char:EOLhyphen"/>ther as there ſhould be cauſe.</p>
+               <p>This latter Power touching Priviledge ſeems to have been inſerted to prevent the Houſes being troubled with Informations, until they were examined and ripe for a Determination.</p>
+               <p>But in other Parliaments, both before
+<pb n="12" facs="tcp:35837:9"/>and ſince, that Power doth not appear to have been given them ſo abſolutely; but matters of Priviledge were, upon Infor<g ref="char:EOLhyphen"/>mation to the Houſe, there heard, and not in a Committee, unleſs in ſome ſpecial Caſes, wherein there was cauſe of Exami<g ref="char:EOLhyphen"/>nation, or of ſome preparation of a Charge; as in the Caſe of <hi>Smaley,</hi> 23. <hi>Eliz.</hi> and many other Caſes.</p>
+               <p>The Power of this Committee uſually was, as it is entred 6. <hi>Novembr.</hi> 1640. <hi>To examine and conſider all Queſtions which ſhall grow and ariſe that Parliament about Elections, Returns and other Privi<g ref="char:EOLhyphen"/>ledges.</hi> Or, as in the Parliament 1<hi rend="sup">o</hi> 
+                  <hi>Iacobi,</hi> thus: <hi>This Committee are to examine all matters queſtionable touching Priviledges and Returns, and to acquaint the Houſe with their proceedings from time to time, ſo, as Order may be taken according to the occaſion, and agreeable with ancient Cuſtom and Preſident.</hi>
+               </p>
+               <p>And to the end theſe Queſtions might be ſpeedily determined, and the Houſe might know their Members, Days are uſu<g ref="char:EOLhyphen"/>ally aſſigned, beyond which there ſhall be no queſtioning a former Election.</p>
+               <p>So in the Parliament of 21. <hi>Iacobi,</hi> the ſecond day of ſitting, It was Ordered, <hi>That
+<pb n="13" facs="tcp:35837:9"/>all Petitions about Elections and Returns, ſhould be preferred to the Committee of Priviledges within a Fortnight from that Day, or elſe to be ſilenced for that Seſsion.</hi>
+               </p>
+               <p>16. <hi>April.</hi> 1640. Ordered, <hi>That thoſe who Would queſtion Elections, ſhould do it within Ten days by Petition.</hi>
+               </p>
+               <p>6. <hi>Novembr.</hi> 1640. Ordered, <hi>That all ſuch as will queſtion Elections now return<g ref="char:EOLhyphen"/>ed, ſhould do it in Fourteen days, and ſo within Fourteen days after any new Return.</hi>
+               </p>
+               <p>Some queſtions have been, where there have been double Indentures returned for ſeveral perſons for the ſame place, whe<g ref="char:EOLhyphen"/>ther all or any, or which of them ſhould ſit.</p>
+               <p>The general rule and practice hath been in ſuch caſe, That neither one nor other ſhould ſit in the Houſe, until it were ei<g ref="char:EOLhyphen"/>ther decided or Ordered by the Houſe: Therefore in <hi>April</hi> 1640. the Lord High Steward, who had power by himſelf or his Deputies, to miniſter the Oathes of Supremacy and Allegiance to all Members returned, before they ſate in the Houſe, gave Order, That where there were more returned for any one place then ought to be, there ſhould be none of them ſworn
+<pb n="14" facs="tcp:35837:10"/>till it were decided by the Houſe who were duly Elected. But that which may ſatisfie herein is, the Order of the Houſe in that Parliament, That if any ſit in the Houſe, that are returned by more Inden<g ref="char:EOLhyphen"/>tures then uſual, they ſhould withdraw till the Committee for Priviledges had further Ordered.</p>
+               <p>In the Parliament begun <hi>April,</hi> 1640. and <hi>November,</hi> 1640. It was moved, That where ſome are returned by the Sheriff or ſuch other Officer, as in Law hath power to Return, and others by pri<g ref="char:EOLhyphen"/>vate hands; therefore thoſe returned by the Sheriff or ſuch Officer ſhould ſit till the Election be quaſhed by the Houſe.</p>
+               <p>But nothing was Ordered upon it.</p>
+               <p>24. <hi>Febr.</hi> 1623. Sir <hi>Francis Popham</hi> being returned a Burgeſs for <hi>Chippenham</hi> by one Indenture, and another perſon re<g ref="char:EOLhyphen"/>turned for the ſame place by another In<g ref="char:EOLhyphen"/>denture; it was moved he might be admit<g ref="char:EOLhyphen"/>ted into the Houſe till the matter were de<g ref="char:EOLhyphen"/>termined againſt him, and a Preſident quo<g ref="char:EOLhyphen"/>ted in Sir <hi>Thomas Wentworth's</hi> Caſe the laſt preceding Parliament. But it was then inſiſted on by the Chancellor of the Dut<g ref="char:EOLhyphen"/>chy and others, That this being a Caſe of a double Return, he was not to be ad<g ref="char:EOLhyphen"/>mitted,
+<pb n="15" facs="tcp:35837:10"/>and ſo it was referred to the Committee for Priviledges. His Caſe be<g ref="char:EOLhyphen"/>ing reported 9. <hi>April.</hi> he was judged to be duly Elected.</p>
+               <p>21. <hi>Jacobi,</hi> Two Indentures were re<g ref="char:EOLhyphen"/>turned for <hi>Southwark,</hi> the one returned <hi>Yarrow</hi> and <hi>Mingy,</hi> the other <hi>Yarrow</hi> and <hi>Bromfield;</hi> upon a Report from the Com<g ref="char:EOLhyphen"/>mittee for Elections, it was reſolved, That the Election and Return for <hi>Yarrow</hi> ſhould ſtand good, and that he ſhould ſit in the Houſe.</p>
+               <p>22. <hi>Martii</hi> 21. <hi>Jacobi,</hi> The Houſe was acquainted that Sir <hi>John Jackson</hi> and Sir <hi>Tho: Beaumont</hi> were both returned for one Burgeſſes place for <hi>Pomfret;</hi> and therefore it was moved, That both might be ſuſpended till it were determined: Mr. <hi>Glanvill</hi> made anſwer to that Motion, That he that was returned might ſit in the Houſe until it were determined; which being contradicted by others, and much Diſpute on both ſides, it was laſtly urged by Sir <hi>Robert Phelips,</hi> That there was not any Preſident for it, and therefore moved the Committee might take the Election into conſideration to morrow, and that in the mean time the parties might forbear to come into the Houſe: which was Or<g ref="char:EOLhyphen"/>dered accordingly.</p>
+               <pb n="16" facs="tcp:35837:11"/>
+               <p> 4. <hi>Novem.</hi> 1640. Upon a Report from the Committee for Priviledges, That ſe<g ref="char:EOLhyphen"/>veral Indentures were returned for Bur<g ref="char:EOLhyphen"/>geſſes for the Burrough of <hi>Boſſinny</hi> in the County of <hi>Cornwal,</hi> the one by the Major of the Town, the other promiſcuouſly: The Committee were of opinion upon view of the bare Indenture, That Sir <hi>Ch: Harbord,</hi> who was returned by the Major was well returned; but the Houſe decla<g ref="char:EOLhyphen"/>red he ſhould not ſit till the Election were decided.</p>
+               <p>In the ſame Parliament, two Returns were made for <hi>Marlo Magna,</hi> in both Indentures <hi>John Burlace</hi> 
+                  <abbr>Eſq</abbr> was return<g ref="char:EOLhyphen"/>ed; therefore, upon Report from the Committee, he was admitted to ſit, but the other to forbear till the Queſtion be determined.</p>
+               <p>17. <hi>April.</hi> 19. <hi>Iacobi,</hi> It was Ordered, <hi>That no Petition ſhould be received by a Committee, but openly at the Committee, and read at the Committee before the party go that preferred it; and the parties name that preferred it be ſubſcribed.</hi>
+               </p>
+               <p>In the Parliament in 21. <hi>Iacobi,</hi> upon a Report made from the Committee for Elections and Priviledges, praying the direction of the Houſe, whether Affidavits
+<pb n="17" facs="tcp:35837:11"/>might be made uſe of at that Committee.</p>
+               <p>Theſe Reaſons being inſiſted upon, that Aſſidavits ſhould not be admitted.</p>
+               <list>
+                  <item>1. Becauſe it makes the Parliament lame without the Chancery.</item>
+                  <item>2. It entituleth the Chancery to judge of Returns.</item>
+                  <item>3. Affidavits are oftentimes cautelouſ<g ref="char:EOLhyphen"/>ly made by Council or Parties.</item>
+                  <item>4. Witneſſes produced <hi>Viva voce,</hi> by Words, Actions, Geſtures, or the like, may diſcover much, whereby the Com<g ref="char:EOLhyphen"/>mittee may judge.</item>
+               </list>
+               <p>It was likewiſe informed by Sir <hi>Ed<g ref="char:EOLhyphen"/>ward Coke</hi> late Lord chief Juſtice, That in the Parliament when he was Speaker, which was 35. <hi>Eliz.</hi> Affidavits were not uſed, nor ſince until of late.</p>
+               <p n="5">5. Though the Committee examine not on Oath, yet they may puniſh any that ſhall teſtifie untruly, of which an inſtance was given in the laſt preceding Parlia<g ref="char:EOLhyphen"/>ment in the Caſe of one <hi>Damport:</hi> It was Reſolved, <hi>That all Affidavits to be taken in any Court concerning Elections, Re<g ref="char:EOLhyphen"/>turns, or any thing depending thereupon, ſhould be rejected, and not hereafter to be uſed.</hi>
+               </p>
+            </div>
+            <div n="5" type="chapter">
+               <pb n="18" facs="tcp:35837:12"/>
+               <head>
+                  <hi>CHAP. V.</hi> Members choſen in ſeveral places.</head>
+               <p>IT falling out ordinarily, that one per<g ref="char:EOLhyphen"/>ſon is choſen and returned to ſerve for ſeveral places, it is in his Election to make his choice in the Houſe in his own perſon for what place he will ſerve, and waive the other Election, ſo as a Writ may go out for a new Election for ſuch place waived, that the number may be full; but if he ſhall not do it by the time which the Houſe ſhall appoint, then it hath been ſaid, the Houſe will appoint for what place ſuch perſon ſhall continue a Mem<g ref="char:EOLhyphen"/>ber, and that Writs may go out for the other places: but <hi>Quaere</hi> whether it hath been done.</p>
+               <p>Oftentimes on the Firſt day of the meeting of the Houſe, as ſoon as the Speaker hath been approved, and ſome<g ref="char:EOLhyphen"/>times before, ſuch perſons as have been ſo doubly returned have made their choice.</p>
+               <p>In the firſt Seſſion of Parliament 1<hi rend="sup">o</hi> 
+                  <hi>Ia<g ref="char:EOLhyphen"/>cobi,</hi> the ſame day Sir <hi>Edward Phelips</hi> was choſen Speaker (before he was preſented to the King) he ſigned a Warrant as
+<pb n="19" facs="tcp:35837:12"/>Speaker, by command of the Houſe, for Election of another perſon in the place of Sir <hi>Francis Bacon</hi> being choſen in two places. And in the ſame Seſſion, the ſame day after the Speaker had taken his place, divers Members who were ſeverally re<g ref="char:EOLhyphen"/>turned, as elected in ſeveral places, made their choice for what places they would ſtand, and new Writs ordered.</p>
+               <p>The Parliament beginning the 13. <hi>April,</hi> 1640. and the Speaker being preſented the 15<hi rend="sup">th</hi>, upon the 16<hi rend="sup">th</hi> day divers made their choice upon ſuch double Returns.</p>
+               <p>The Parliament beginning 3. <hi>Novemb.</hi> 1640. Upon a long Debate for granting time for Elections on double Returns of this nature, It was reſolved, <hi>That all ſuch as are doubly returned ſhall make their choice for which place they will ſerve on Monday next.</hi>
+               </p>
+               <p>9. <hi>Martii</hi> 21. <hi>Iacobi,</hi> Reſolved, <hi>That all Members of this Houſe doubly returned, ſhall make their Elections for which they will ſerve, and that thoſe in the Houſe ſhall do it preſently, or elſe new Writs to iſſue for both.</hi>
+               </p>
+            </div>
+            <div n="6" type="chapter">
+               <pb n="20" facs="tcp:35837:13"/>
+               <head>
+                  <hi>CHAP. VI.</hi> New Writs for Vacant Places.</head>
+               <p>A General Order hath uſually been made in the beginning of the Seſ<g ref="char:EOLhyphen"/>ſion, to authorize the Speaker to give Warrant for new Writs, in caſe of Death of any Member, or of double Returns, where the party makes his choice openly in the Houſe during that Seſſion; ſo it was Ordered in the beginning of the Par<g ref="char:EOLhyphen"/>liaments 18. <hi>Iac.</hi> and 21. <hi>Iacobi.</hi>
+               </p>
+               <p>Where ſuch general Order is not made, Writs have iſſued by Warrant of the Speaker, by virtue of ſpecial Order, upon Motion in the Houſe.</p>
+               <p>This Warrant is to be directed to the Clerk of the Commonwealth (then called the Clerk of the Crown) in Chancery, by Order of Parliament 13. <hi>Novemb.</hi> 1601.</p>
+            </div>
+            <div n="7" type="chapter">
+               <pb n="21" facs="tcp:35837:13"/>
+               <head>
+                  <hi>CHAP. VII.</hi> Rules and Method of Debates in the Houſe.</head>
+               <p>VVHen a Motion hath been made, the ſame may not be put to the Queſtion until it be debated, or at leaſt have been ſeconded and proſecuted by one or more perſons ſtanding up in their pla<g ref="char:EOLhyphen"/>ces as aforeſaid, and then the ſame may be put to the Queſtion, if the Queſtion be called for by the Houſe, or their ge<g ref="char:EOLhyphen"/>neral Senſe be known, which the Speaker is to demand, unleſs any Member ſtand up to ſpeak.</p>
+               <p>When a Motion hath been made, that Matter muſt receive a determination by a Queſtion, or be laid aſide by the general Senſe of the Houſe before another be en<g ref="char:EOLhyphen"/>tertained. An inſtance is in the Journal 28. <hi>Iune,</hi> 1604. A Motion being made, another interpoſed a Speech tending to another Buſineſs: but it was anſwered. <hi>That there was no Preſident for that Speech to be uſed before the other Motion, which was made before, had received an Anſwer and an end.</hi> And the Houſe did accord<g ref="char:EOLhyphen"/>ingly
+<pb n="22" facs="tcp:35837:14"/>determine the firſt Motion in the firſt place.</p>
+               <p>4. <hi>Decemb.</hi> 1640. Ordered, <hi>That till the Buſineſs in agitation be ended, no new Motion of any new Matter ſhall be made without leave of the Houſe.</hi>
+               </p>
+               <p>If the Matter moved do receive a De<g ref="char:EOLhyphen"/>bate <hi>pro &amp; contra,</hi> in that Debate none may ſpeak more then once to the Matter: And after ſome time ſpent in the Debate, the Speaker collecting the Senſe of the Houſe upon the Debate, is to reduce the ſame into a Queſtion, which he is to pro<g ref="char:EOLhyphen"/>pound; to the end, the Houſe in their Debate afterwards may be kept to the Matter of that Queſtion, if the ſame be approved by the Houſe to contain the ſubſtance of the former Debate.</p>
+               <p>After ſuch Queſtion is propounded, any Member may offer his Reaſons againſt that Queſtion in whole or in part, which may be laid aſide by a general conſent of the Houſe without a Queſtion put.</p>
+               <p>But without ſuch general conſent, no part of the Queſtion propounded may be laid aſide or omitted; and although the general Debates run againſt it, yet if any Member, before the Queſtion be put <hi>with<g ref="char:EOLhyphen"/>out that part,</hi> ſtand up and deſire that
+<pb n="23" facs="tcp:35837:14"/>ſuch Words or Clauſe may ſtand in the Queſtion, before the main Queſtion is put; a Queſtion is to be put, Whether thoſe Words or ſuch Clauſe ſhall ſtand in the Queſtion.</p>
+               <p>The like Method is obſerved, where any other Alteration is debated upon, to be made in a Queſtion propounded; but upon putting a Queſtion for ſuch Addi<g ref="char:EOLhyphen"/>tion, Alteration or Omiſſion, any perſon who hath formerly ſpoken to the Matter of the Queſtion, may ſpeak again to ſhew his Reaſons for, or againſt ſuch Alterati<g ref="char:EOLhyphen"/>on, Addition or Omiſſion, before ſuch Queſtion be put.</p>
+               <p>When the Speaker (the Houſe calling for a Queſtion) is putting the ſame, any Member that hath not before ſpoken to the matter, may ſtand up before the Ne<g ref="char:EOLhyphen"/>gative be put.</p>
+               <p>13. <hi>Junii,</hi> 1604. A Bill touching a Subſidy of Tonnage and Poundage having been formerly upon a third Reading re<g ref="char:EOLhyphen"/>committed, was returned; And a <hi>Proviſo</hi> being tendred for <hi>Cheſter,</hi> which was twice read, the Queſtion was put for Commit<g ref="char:EOLhyphen"/>ment in the Aſſirmative: but before the Negative was put, one ſtood up and ſpake to it, which was admitted for Orderly,
+<pb n="24" facs="tcp:35837:15"/>becauſe it is no full Queſtion without the Negative part be put as well as the Af<g ref="char:EOLhyphen"/>firmative.</p>
+               <p>Every Queſtion is to be put firſt in the Affirmative: <hi>viz. As many as are of opini<g ref="char:EOLhyphen"/>on that</hi> (repeating the Words of the Que<g ref="char:EOLhyphen"/>ſtion) <hi>ſay, Yea.</hi> And then the Negative thus: <hi>As many as are of another opinion ſay, No.</hi> To which Queſtion every Mem<g ref="char:EOLhyphen"/>ber ought to give his Vote one way or other, and the Speaker is to declare his opinion, whether the <hi>Yea's</hi> or the <hi>No's</hi> have it, which is to ſtand as the Judge<g ref="char:EOLhyphen"/>ment of the Houſe. But if any Member before any new Motion made, ſhall ſtand up and Declare, That he doth believe the <hi>Yea's,</hi> or <hi>No's</hi> (as the Caſe ſhall be) have it, contrary to the Speakers opinion, then the Speaker is to give direction for the Houſe to divide, declaring whether the <hi>Yea's</hi> or the <hi>No's</hi> are to go forth.</p>
+               <p>Upon the dividing of the Houſe, thoſe are to go forth who are for varying from, or againſt the conſtant Orders of the Houſe, (as that a Queſtion ſhall not be put, or not be now put, it being the courſe of the Houſe, that after a Debate the ſame ſhould be determined by a Queſtion or the like) or againſt any Poſitive Order
+<pb n="25" facs="tcp:35837:15"/>made by the Houſe, or for the paſſing any new thing, as reading a Petition or Bill, and Committing, Ingroſſing, or paſſing ſuch Bill, or the like.</p>
+               <p>10. <hi>Decembr.</hi> 1640. An Order being made the 9. Day, That the Houſe ſhould be Reſolved into a Grand Committee the next Day, for Debating the way of rai<g ref="char:EOLhyphen"/>ſing Money; Upon the 10. Day a Que<g ref="char:EOLhyphen"/>ſtion was upon Debate put, whether the Houſe ſhould be reſolved into a Grand Committee; upon which the Houſe was divided, and a Doubt moved which were to go forth. It was declared for a con<g ref="char:EOLhyphen"/>ſtant Rule, <hi>Thoſe that give their Votes for Preſervation of the Orders of the Houſe ſhould ſtay in; and thoſe who give their Votes otherwiſe, to the introducing any new Matter, or for any Alteration, ſhould go forth.</hi>
+               </p>
+               <p>24. <hi>Martii,</hi> 21. <hi>Iacobi,</hi> Upon a Report from the Committee for Priviledges, a Queſtion was put, That Sir <hi>Tho: Holland</hi> and Sir <hi>Iohn Corbet</hi> were well Elected Knights for <hi>Norfolk;</hi> The Houſe was divi<g ref="char:EOLhyphen"/>ded, and a Conteſt which ſhould go forth; It was over-ruled by the Houſe the <hi>No's</hi> ſhould go forth.</p>
+               <p>Which is alſo the courſe upon any
+<pb n="26" facs="tcp:35837:16"/>Queſtion to agree with a Report in favor of the Opinion of a Committee.</p>
+               <p>Upon dividing the Houſe, the Speaker is to nominate two of thoſe that are in the Affirmative, and two of the Negatives, to count the Houſe; which four (each of them having a Staff in his hand) are to count the number of the Perſons who re<g ref="char:EOLhyphen"/>main ſitting in the Houſe, and then to ſtand within the Door, two on the one ſide and two on the other, and to count the Number of them who went forth as they come in.</p>
+               <p>While the Houſe is thus divided or di<g ref="char:EOLhyphen"/>viding, no Member may ſpeak, nor (un<g ref="char:EOLhyphen"/>leſs it be to go forth upon the Diviſion) remove out of his place.</p>
+               <p>When the Houſe is thus told, thoſe two of the Tellers who are of the number of thoſe who have the major Votes, ſtand<g ref="char:EOLhyphen"/>ing on the right hand, and the two others on the left at the Bar, (the reſt being all ſet in their places) are to come from thence up to the Table together, (making the uſual Obeyſance to the Houſe three times; once at the Bar, again in the mid<g ref="char:EOLhyphen"/>dle of the Houſe, and again when they are come to the Table) And that perſon who ſtands on the right hand, is to declare to
+<pb n="27" facs="tcp:35837:16"/>the Speaker the number of the <hi>Yea's</hi> (who ſate or went out as the Caſe is) and of the <hi>No's:</hi> and then with like reverence to depart into their places; after which, Mr. Speaker is to report the ſame to the Houſe.</p>
+               <p>If the Affirmatives have the major Votes by the judgement of the Speaker, or (in caſe of diviſion) upon the diviſion, the Clerk is to enter the Vote, <hi>Reſolved.</hi> If the Negatives, then he is to enter it thus; The Queſtion being put (ſetting down the Words of the Queſtion) It paſ<g ref="char:EOLhyphen"/>ſed in the Negative.</p>
+               <p>Upon the diviſion, if the Members ap<g ref="char:EOLhyphen"/>pear to be equal, then the Speaker is to declare his Vote, whether he be a <hi>Yea</hi> or a <hi>No,</hi> which in this Caſe is the caſting Voice; but in other Caſes, the Speaker gives no Vote.</p>
+               <p>1. <hi>Maii,</hi> 1606. A Queſtion was mo<g ref="char:EOLhyphen"/>ved, whether a Man ſaying <hi>Yea,</hi> might afterwards ſit and change his Opinion; and a Preſident was remembred by Mr. Speaker (Sir <hi>Edward Phelips</hi>) of Mr. <hi>Morris</hi> Attorney of the Wards, in 39. <hi>Elizab.</hi> that in like Caſe changed his Opinion.</p>
+               <p>If upon a Debate it be much contro<g ref="char:EOLhyphen"/>verted,
+<pb n="28" facs="tcp:35837:17"/>and much be ſaid againſt the Que<g ref="char:EOLhyphen"/>ſtion, any Member may move, That the Queſtion may be firſt made, whether that Queſtion ſhall be put, or whether it ſhall be now put; which uſually is admitted at the inſtance of any Member, eſpecially if it be ſeconded and inſiſted on; and if that Queſtion being put, it paſs in the Affirma<g ref="char:EOLhyphen"/>tive, then the main Queſtion is to be put immediately, and no man may ſpeak any thing further to it, either to add or alter: But before the Queſtion, whether the Queſtion ſhall be put, any perſon who hath not formerly ſpoken to the main Queſtion hath liberty to ſpeak for it, or againſt it; becauſe elſe he ſhall be pre<g ref="char:EOLhyphen"/>cluded from ſpeaking at all to it.</p>
+               <p>If in a Debate, there ariſe more Que<g ref="char:EOLhyphen"/>ſtions then one, and it be controverted which Queſtion ſhould be firſt put; the Queſtion firſt moved and ſeconded is re<g ref="char:EOLhyphen"/>gularly to be firſt put, unleſs it be laid aſide by general conſent. If the firſt Queſtion be inſiſted upon to be put, and the major part ſeem againſt it, the Queſti<g ref="char:EOLhyphen"/>on is to be, Whether that Queſtion ſhall be now put; if that paſs in the Negative, then the other Queſtion may be put if deſired: nevertheleſs, any perſon may
+<pb n="29" facs="tcp:35837:17"/>ſpeak to it again before it be put. If in the Affirmative, then it is to be put with<g ref="char:EOLhyphen"/>out any addition or alteration as before: And after that Queſtion is put, if any Member move to have the other Queſti<g ref="char:EOLhyphen"/>on put, every one hath leave to ſpeak to it again as if it were a new Queſtion.</p>
+               <p>If a Matter be received into Debate, and a Queſtion grow, whether the Houſe ſhall proceed in that Debate at this time, and it fall out that the Houſe be divided; in ſuch Caſe the <hi>No's</hi> are to go forth, it being contrary to the courſe of the Houſe, that any buſineſs ſhould be laid aſide till it be determined by a Queſtion: If the Queſtion be for an adjournment of a Debate, the <hi>Yea's</hi> are to go forth upon the ſame reaſon.</p>
+               <p>After a Queſtion is propounded, no man may ſpeak more then once to the Matter; but having ſpoken to the Matter, when the Queſtion comes to be put, he may ſpeak to the Maner or Words of the Queſtion, keeping himſelf to that onely, and not ravelling into the Merits of it.</p>
+               <p>If a Queſtion upon a Debate contain more parts then one, and Members ſeem to be for one part and not for the other, it may be moved that the ſame may be
+<pb n="30" facs="tcp:35837:18"/>divided into two or more Queſtions: as, 2. <hi>Decembr.</hi> 1640. The Debate having been, whether the Election of two Knights for the County of <hi>Warwick</hi> were void; a Queſtion was put, whether it ſhould be two Queſtions: and that being Reſolved in the Affirmative, the Queſti<g ref="char:EOLhyphen"/>ons were put ſeverally, upon the Election of the one firſt, and then of the other.</p>
+               <p>No Member in his Diſcourſe in the Houſe may mention the name of any other Member then preſent, but to de<g ref="char:EOLhyphen"/>ſcribe him by his Title or Addition; as, that Noble <hi>Lord,</hi> Worthy <hi>Knight;</hi> or by his Office, as, <hi>Judge, Scrjeant, Gentleman</hi> of the long or ſhort Robe; or by his Place, as, the Gentleman near the Chair, near the Bar, on the other ſide; or thus, the Gentleman that ſpake laſt, or laſt ſave one, or the like.</p>
+               <p>During any Debate, any Member though he have ſpoken to the Matter, may riſe up and ſpeak to the Orders of the Houſe, if they be tranſgreſſed, in caſe the Speaker do not; but if the Speaker ſtand up, he is firſt to be heard, and when he ſtands up, the other muſt ſit down till the Speaker ſit down. But if any perſon riſe up to ſpeak to the Orders of the
+<pb n="31" facs="tcp:35837:18"/>Houſe in the midſt of a Debate, he muſt keep within that Line, and not fall into the Matter it ſelf; if he do, he may be taken down by the Speaker, or any other Mem<g ref="char:EOLhyphen"/>ber, calling to the Orders of the Houſe.</p>
+               <p>Whiles a Member is ſpeaking to a De<g ref="char:EOLhyphen"/>bate or Queſtion, he is to be heard out and not taken down, unleſs by Mr. Speak<g ref="char:EOLhyphen"/>er, in ſuch Caſes as you ſinde therein ex<g ref="char:EOLhyphen"/>preſſed, or that he ſpeak of ſuch Matter as the Houſe doth not think fit to admit.</p>
+               <p>24. <hi>Januar.</hi> 23. <hi>Eliz.</hi> Upon a Debate in the Houſe, Mr. <hi>Carleton,</hi> endeavoring to ſpeak contrary to the Senſe of the Houſe, was interrupted; and afterwards offering to ſpeak again, ſaying with ſome repetition, That it was for the liberty of the Houſe, the Speaker and the Houſe did ſtay him.</p>
+               <p>
+                  <hi>April</hi> 1604. Agreed for a Rule of the Houſe, <hi>He that digreſſeth from the Matter to fall upon the Perſon, ought to be ſuppreſ<g ref="char:EOLhyphen"/>ſed by the Speaker.</hi>
+               </p>
+               <p>17. <hi>April</hi> 1604. Agreed for a general Rule, <hi>If any ſuperfluous Motion or tedious Speech be offered in the Houſe, the party is to be directed and ordered by the Speaker.</hi>
+               </p>
+               <p>2. <hi>Maii</hi> 1610. A Member ſpeaking,
+<pb n="32" facs="tcp:35837:19"/>and his Speech ſeeming impertinent, and there being much Hiſſing and Spitting; It was conceived for a Rule, <hi>That Mr. Speaker may ſtay impertinent Speeches.</hi>
+               </p>
+               <p>18. <hi>Maii</hi> 1604. It was Reſolved, That eight ingroſſed Bills ſhould be read the next day half an hour after eight: The next day about that time, a Member en<g ref="char:EOLhyphen"/>tring into a long diſcourſe <hi>De mera ſide &amp; ſola ſide,</hi> &amp;c. was interrupted, and the Queſtion offered, whether he ſhould go on in reſpect of the Order. But it was agreed for a Rule, <hi>If any man ſpeak not to the Matter in Queſtion, the Speaker is to moderate.</hi>
+               </p>
+               <p>14. <hi>April.</hi> 1604. In a Matter formerly propoſed, touching the abuſe of the Pur<g ref="char:EOLhyphen"/>veyors, it was argued, Whether it were fitteſt to proceed by way of Petition to the King or by Bill: which was ſpoken to by Mr. <hi>Marten,</hi> Mr. <hi>Hoskins</hi> and others, and laſtly by Sir <hi>Henry Jenkin,</hi> who was obſerved to miſtake the Queſtion; and therefore (to prevent the idle expence of time) was interrupted by Mr. Speaker, and thereupon a Rule conceived, <hi>That if any Man ſpeak impertinently or be<g ref="char:EOLhyphen"/>ſides the Queſtion in hand, it ſtands with the Orders of the Houſe for Mr. Speaker
+<pb n="33" facs="tcp:35837:19"/>to interrupt him, and to know the pleaſure of the Houſe, whether they will further hear them.</hi>
+               </p>
+               <p>A Matter upon Debate having been once finally determined by a Queſtion, ought not to be again brought into diſpute.</p>
+               <p>27. <hi>Martii,</hi> 1604. Sir <hi>Edward Coke</hi> Attorney-General, and Doctor <hi>Hone</hi> bring a Meſſage from the Lords, deſiring a Conference about the Caſe of Sir <hi>Fran<g ref="char:EOLhyphen"/>cis Goodwyn:</hi> Upon this Meſſage it was argued, That now the Judgement having paſſed the Houſe, it could not nor ought to be reverſed by them; and upon the Queſtion it was Reſolved, There ſhould be no Conference.</p>
+               <p>
+                  <hi>In ſapientum decretis non eſt litura.</hi>
+               </p>
+               <p>2. <hi>April.</hi> 1604. A Vote having paſſed ſome days paſt, That no Conference ſhould be admitted with the Lords, the ſame Queſtion was again moved, but was carried in the Negative: And it was then urged for a Rule, That a Queſtion being once made and carried in the Affirmative or Negative, cannot be queſtioned again, but muſt ſtand as the Judgement of the Houſe.</p>
+               <p>In the Anſwer of the Commons Houſe
+<pb n="34" facs="tcp:35837:20"/>of Parliament to King <hi>James</hi> his Objecti<g ref="char:EOLhyphen"/>ons in Sir <hi>Francis Goodwyn's</hi> Caſe, 3. <hi>A<g ref="char:EOLhyphen"/>pril.</hi> 1604. The Objection being that they refuſe Conference with the Lords.</p>
+               <p>The Anſwer is in theſe words, Con<g ref="char:EOLhyphen"/>cerning our refuſing Conference with the Lords, there was none deſired until after our Sentence paſſed; and then we thought that in a Matter private to our own Houſe, <hi>which by Rules of Order might not be by us revoked,</hi> we might without any imputation refuſe to confer.</p>
+            </div>
+            <div n="8" type="chapter">
+               <pb n="35" facs="tcp:35837:20"/>
+               <head>
+                  <hi>CHAP. VIII.</hi> Grand Committees, and their maner of Proceedings.</head>
+               <p>A Grand Committee conſiſts of as many Members, at leaſt, as conſti<g ref="char:EOLhyphen"/>tute the Houſe, (leſs may not ſit or act as a Committee) who have general Pow<g ref="char:EOLhyphen"/>ers to conſider of any Matters touching the ſubject Matter referred, and to pre<g ref="char:EOLhyphen"/>ſent their Opinions therein to the Houſe, the better to prepare Matters of that nature, or Bills therein, for the Houſe; which may better be prepared, by the li<g ref="char:EOLhyphen"/>berty that every Member hath in a Grand Committee, as well as in other Commit<g ref="char:EOLhyphen"/>tees, to ſpeak more then once to the ſame Buſineſs, (if there be cauſe) which is not permitted in the Houſe.</p>
+               <p>But Grand Committees have their Powers and Rules, in other Circumſtan<g ref="char:EOLhyphen"/>ces, given them in expreſs words by the Houſe; as, to ſend for Witneſſes, to hear Council, or aſſign them on either part, to ſend for Records; which appears by ſeveral Motions made in the Parliament 21. <hi>Jacobi.</hi> Sir <hi>Robert Phelips</hi> (a perſon
+<pb n="36" facs="tcp:35837:21"/>of much Experience in the Courſe and Orders of Parliament) moved the Houſe from the Grand Committee for Courts of Juſtice, that they might have Power in the particulars aforeſaid.</p>
+               <p>8. <hi>Martii</hi> and 13. <hi>Martii</hi> in the ſame Parliament, upon report from the Com<g ref="char:EOLhyphen"/>mittee for Trade, (which then was a Grand Committee) the Houſe was moved for their Order to the Merchants Adven<g ref="char:EOLhyphen"/>turers to bring in their Patents, and that the Inventor of the pretermitted Cuſtoms ſhould attend the Committee.</p>
+               <p>15. <hi>Maii</hi> 22. <hi>Jacobi,</hi> Upon Complaint from the Grand Committee for Grievan<g ref="char:EOLhyphen"/>ces, that they had ſent-ſeveral Warrants for divers perſons to bring in their Pa<g ref="char:EOLhyphen"/>tents, which they had not done; the Houſe Ordered <hi>the Serjeant at Arms to be ſent for them.</hi>
+               </p>
+               <p>When any great Buſineſs is in agitati<g ref="char:EOLhyphen"/>on that requires much Debate, or a Bill for a Publique Tax is to be committed, the Houſe doth uſe to reſolve it ſelf into a Grand Committee of the whole Houſe; which is done by a Queſtion, and then the Speaker leaves his Chair: and thereupon the Committee (which muſt conſiſt of as great a number as conſtitutes a Houſe, as
+<pb n="37" facs="tcp:35837:21"/>is before declared) makes choice of a Chair-man; in which caſe, if more then one be generally called to the Chair, any Member may ſtand up, and by conſent of the Committee, put a Queſtion for one of thoſe named to be the Chair-man.</p>
+               <p>19<hi rend="sup">o</hi> 
+                  <hi>Jacobi,</hi> A diſpute being in the Com<g ref="char:EOLhyphen"/>mittee, which of two Members named ſhould go to the Chair, the Speaker was called to his Chair, and put the Queſtion, That Sir <hi>Edward Coke</hi> (who was one of the perſons named) ſhould take the Chair, and then the Speaker left his Chair.</p>
+               <p>The Chair-man of the Grand Com<g ref="char:EOLhyphen"/>mittee is to ſit in the Clerks place at the Table, and to write the Votes of the Committee.</p>
+               <p>If upon putting a Queſtion, the Chair<g ref="char:EOLhyphen"/>man (who is to judge by the Voices) have delivered his opinion that the <hi>Yea's</hi> have it, and any Member ſtand up and ſay, He believes the <hi>No's</hi> have it, (or contrari<g ref="char:EOLhyphen"/>wiſe) the Committee is to divide within the Houſe; the Chair-man directing the <hi>Yea's</hi> to go to that ſide of the Houſe that is on the one hand, and the <hi>No's</hi> to the other ſide, and then he is to appoint one of each to count the numbers and report
+<pb n="38" facs="tcp:35837:22"/>them; which is to be done in the ſame order as in the Houſe, ſaving that the Obeyſance is onely twice in the Commit<g ref="char:EOLhyphen"/>tee, thrice in the Houſe: if the numbers be equal, the Chair-man hath a caſting Voice, otherwiſe he hath no Vote in the Committee.</p>
+               <p>When the Committee hath gone through the Matter referred to them, the Chair-man having read all the Votes, is to put the Queſtion, that the ſame be re<g ref="char:EOLhyphen"/>ported to the Houſe: If that be reſolved, he is to leave the Chair, and the Speaker being again called to the Chair, (or at the next ſitting of the Houſe, if it be then ad<g ref="char:EOLhyphen"/>journed) the Chair-man is to report what hath been reſolved at the Committee, ſtanding in his uſual place, from whence (if it be not in the ſeat next the Floor) he is to go down to the Bar, and ſo to bring up his Report to the Table.</p>
+               <p>If the Committee cannot perfect the Buſineſs at that ſitting, they may not ad<g ref="char:EOLhyphen"/>journ as other Committees; but a Que<g ref="char:EOLhyphen"/>ſtion is to be made for reporting to the Houſe, and that leave be asked, that the Committee may ſit at another time on that Buſineſs.</p>
+               <p>But if, as ſometimes it falls out, the
+<pb n="39" facs="tcp:35837:22"/>Matter hath received a full Debate in the Committee, and it is judged fit to be re<g ref="char:EOLhyphen"/>ſolved in the Houſe, the Speaker is again called to the Chair for that purpoſe.</p>
+               <p>In other things then as aforeſaid, the Rules of Proceedings are to be the ſame as are in the Houſe.</p>
+               <p>4<hi rend="sup">o</hi> 
+                  <hi>Junii,</hi> 1607. agreed for a Rule.</p>
+               <list>
+                  <item>1. <hi>Every Queſtion upon the Voices of a Committee bindeth, and cannot be altered by themſelves.</hi>
+                  </item>
+                  <item>2. <hi>Every thing directed and agreed to be reported, ought to be accordingly report<g ref="char:EOLhyphen"/>ed; but not every thing ſpoken or debated at a Committee.</hi>
+                  </item>
+               </list>
+               <p>28<hi rend="sup">th</hi> 
+                  <hi>Julii,</hi> 1641. Declared by the Houſe, <hi>That no Committee ought by Vote to deter<g ref="char:EOLhyphen"/>mine the Right or Property of the Subject, Without firſt acquainting the Houſe there<g ref="char:EOLhyphen"/>with.</hi>
+               </p>
+               <p>6<hi rend="sup">o</hi> 
+                  <hi>Aug.</hi> 1641. Reſolved, <hi>That no Vote paſt at a Committee, and not reported nor confirmed by the Houſe, ſhall be any Rule or Direction for any Court of Juſtice in</hi> Weſt<g ref="char:EOLhyphen"/>minſter-Hall <hi>to ground any Proceedings thereon.</hi>
+               </p>
+            </div>
+            <div n="9" type="chapter">
+               <pb n="40" facs="tcp:35837:23"/>
+               <head>
+                  <hi>CHAP. IX.</hi> Publique Bills, and maner of Pro<g ref="char:EOLhyphen"/>ceeding on them.</head>
+               <p>ANy Member of the Houſe may offer a Bill for Publique Good, except it be for impoſing a Tax; which is not to be done but by Order of the Houſe firſt had.</p>
+               <p>But if any Member deſire, That an Act made and in force, may be repealed or al<g ref="char:EOLhyphen"/>tered, he is firſt to move the Houſe in it, and have their reſolution, before any Bill to that purpoſe may be offered; and if upon the Reaſons ſhewed, for repealing or altering ſuch Law, the Houſe ſhall think it fit, they do uſually appoint one or more of the Members to bring in a Bill for that purpoſe. In the beginning of every Parliament, ſome perſons have been appointed to conſider of ſuch Laws as had continuance to the preſent Seſſion, whe<g ref="char:EOLhyphen"/>ther they were fit to be continued or de<g ref="char:EOLhyphen"/>termined; as alſo of former Statutes re<g ref="char:EOLhyphen"/>pealed or diſcontinued, whether fit to be revived, and what are fit to be repealed.</p>
+               <p>19<hi rend="sup">o</hi> 
+                  <hi>April.</hi> 1604. Mr. Serjeant <hi>Sing</hi>
+                  <pb n="41" facs="tcp:35837:23"/>moved for ſome courſe to be entred into for continuance of Statutes, and offered ſomething in writing to that end; but the Houſe thought fit a Bill for continuance ſhould not be brought in by any but the Committee for that purpoſe; which holds <hi>a fortiori</hi> in repealing Statutes.</p>
+               <p>A Private Bill that concerns a particu<g ref="char:EOLhyphen"/>lar perſon, is not to be offered to the Houſe till the leave of the Houſe be deſi<g ref="char:EOLhyphen"/>red, and the ſubſtance of ſuch Bill made known, either by Motion or Petition: nevertheleſs, the Speaker hath had liberty to call for a private Bill to be read every morning; and uſually the morning is ſpent in the firſt reading of Bills until the Houſe grow full.</p>
+               <p>If any Publique Bill be tendred, the per<g ref="char:EOLhyphen"/>ſon who tenders the Bill muſt firſt open the matter of the Bill to the Houſe, and offer the Reaſons for the admitting there<g ref="char:EOLhyphen"/>of; and thereupon, the Houſe will either admit or deny it.</p>
+               <p>If a Bill be admitted to be read, the ſame is to be preſented fairly written, without any razure or interlineation, toge<g ref="char:EOLhyphen"/>ther with a Breviate of the Heads of the Bill; and unleſs it be ſo tendred, the Speaker may refuſe it.</p>
+               <pb n="42" facs="tcp:35837:24"/>
+               <p> When a Bill hath been read the firſt time, the Clerk is to deliver the ſame to the Speaker; who ſtanding up uncovered, (whereas otherwiſe he ſits with his hat on) and holding the Bill in his hand, is to open the ſame, firſt reading the Title thereof, and after he hath done, declares this to be the firſt reading of ſuch Bill; and until the Bill be opened, no Member may ſpeak to it.</p>
+               <p>After the firſt reading of a Bill, and the ſame opened, no man regularly may ſpeak to it, until it hath been the ſecond time read, unleſs he ſpeak to caſt it out; in which caſe any other may ſpeak for the retaining thereof: Nevertheleſs, it is not without Preſident, That upon the firſt reading of a Bill, Debates have been up<g ref="char:EOLhyphen"/>on it <hi>pro</hi> and <hi>contra,</hi> eſpecially when the Houſe hath generally diſliked the Bill; and in caſe, after Debate, the Houſe do call to the Queſtion, and the Senſe of the Houſe therein be doubtful, the firſt Que<g ref="char:EOLhyphen"/>ſtion is to be put (not whether the Bill ſhall be read the ſecond time, for ſo it ought to be in ordinary courſe without a Queſtion, if nothing be ſaid againſt it, but) whether the Bill ſhall be rejected. If it paſs in the Affirmative, the Clerk enters
+<pb n="43" facs="tcp:35837:24"/>the ſame in his Journal, and alſo endorſes it upon the back of the Bill.</p>
+               <p>By the Journal of the Parliament held 43<hi rend="sup">o</hi> 
+                  <hi>Eliz. Novembr.</hi> 17<hi rend="sup">o</hi>. Upon Debate of the Bill againſt unlawful Hunting, 5<hi rend="sup">th</hi> Seſſion of the firſt Parliament of King <hi>Iames,</hi> this appears to have been the courſe.</p>
+               <p>In the Parliament 1604. the Bill touching Apparel upon the firſt reading was diſliked, and ſo ſpoken to <hi>pro</hi> and <hi>contra;</hi> which is not uſually admitted, without ſome extraordinary conceit of miſchief, inconvenience or imperfection, and the Queſtion was put preſently for the Rejection: Upon the diviſion of the Houſe, thoſe for the Bill ſate, thoſe againſt it went out; which was alſo done 7<hi rend="sup">o</hi> 
+                  <hi>Aug.</hi> 1641. upon the Queſtion for rejecting the Bill for Light-houſes in the North.</p>
+               <p>If the Bill be not ſo generally oppoſed, but onely by ſome, then the Queſtion is to be, whether the Bill ſhall be read a ſecond time; and if that Queſtion for reading the Bill a ſecond time paſs in the Affirmative, it is to be read at ſuch convenient time as the Houſe ſhall be minded of it by the Speaker, or as the Houſe ſhall appoint: If it paſs in the Negative, then a Queſtion is to be put for Rejection.</p>
+               <pb n="44" facs="tcp:35837:25"/>
+               <p> Bills, eſpecially Publique Bills, have not uſually been read more then once in one day, but put off to the next day, or for two or three days, (except it require haſte) to the end the Members of the Houſe may have time to conſider of it: and (if they ſhall deſire it) may peruſe the Bill, to enable them to ſpeak to it at the next reading. But in former times Bills have been twice, yea thrice read in one day, and paſſed; as may be ſeen in the Proceedings upon the Bill againſt Coun<g ref="char:EOLhyphen"/>terfeit Seals 16<hi rend="sup">o</hi> 
+                  <hi>Febr.</hi> 23<hi rend="sup">o</hi> 
+                  <hi>Eliz.</hi> and in the Bill againſt Diſobedience to the Queen 4<hi rend="sup">o</hi> 
+                  <hi>Martii,</hi> of the ſame Year. The Bill for recognition of the Succeſſion of the Crown in the firſt Seſſion of the Par<g ref="char:EOLhyphen"/>liament 1<hi rend="sup">o</hi> 
+                  <hi>Jacobi:</hi> And therefore any Member may move it may be read the ſame day the ſecond time; and any other Member hath liberty to offer his Reaſons againſt ſuch ſecond reading at that time; but it is not done, but upon Motion or Order of the Houſe.</p>
+               <p>Sometimes the Houſe upon Debate doth paſs ſome Votes to be the Heads of a Bill, or refer it to a Committee of the whole Houſe to prepare ſuch Heads: Ne<g ref="char:EOLhyphen"/>vertheleſs, when it is digeſted into a Bill,
+<pb n="45" facs="tcp:35837:25"/>and that comes to be read or paſſed, it is lawful to debate or argue againſt all or any part thereof, to alter or reject it; becauſe Votes, in order to a Bill, are no further binding, but that the Bill is to be preſented containing thoſe Votes; and becauſe the Bill gives occaſion of a more large Debate; and being to paſs into a Law, every Member hath liberty to offer his Reaſons againſt it, as well as give his Vote, as often as it comes to a Queſtion.</p>
+               <p>When a Bill hath been read the ſecond time, and opened as before, any Member may move to have the ſame amended, but muſt ſpeak but once to it; and therefore muſt take all his Exceptions againſt the Bill, and every part of it, at one time: For in the Debate of a Bill, no man may ſpeak but once the ſame day, except the Bill be read more then once that day, and then he may ſpeak as often as it is read.</p>
+               <p>4<hi rend="sup">o</hi> 
+                  <hi>Junii,</hi> 1604. Agreed for a Rule, <hi>If two ſtand up to ſpeak to a Bill, he that would ſpeak againſt the Bill, if it be known by demand or otherwiſe, is to be firſt heard.</hi>
+               </p>
+               <p>If the Exceptions be ſuch as may not be amended at the Table, then the Que<g ref="char:EOLhyphen"/>ſtion is for the committing of the Bill:
+<pb n="46" facs="tcp:35837:26"/>but no Bill is to be committed without ſome Exceptions taken to it; as it was in<g ref="char:EOLhyphen"/>ſiſted on upon that Queſtion for commit<g ref="char:EOLhyphen"/>ting the Bill <hi>for Probate of Suggeſtions in caſe of Prohibitions,</hi> which were then made, and thereupon the Bill was com<g ref="char:EOLhyphen"/>mitted.</p>
+               <p>No <hi>Proviſo</hi> or Clauſes are to be ten<g ref="char:EOLhyphen"/>dred to a Bill upon a ſecond reading; be<g ref="char:EOLhyphen"/>cauſe if it be committed, it is proper to offer them to the Committee without troubling the Houſe: as 16<hi rend="sup">o</hi> 
+                  <hi>Iunii,</hi> 1604. It was moved that ſundry <hi>Proviſo's</hi> then tendred, be offered to the Committee.</p>
+               <p>If that Queſtion for commitment paſs in the Negative, then the Queſtion is to be put for ingroſſing the Bill; ſo it was upon the ſecond reading of the <hi>Bill for Limitations of Actions</hi> 21<hi rend="sup">o</hi> 
+                  <hi>Iacobi.</hi> And an<g ref="char:EOLhyphen"/>other <hi>Bill for explanation of a Clauſe in an Act</hi> 3<hi rend="sup">o</hi> 
+                  <hi>Iacobi,</hi> Entituled, <hi>An Act for the better diſcovering and ſuppreſſing Romiſh Recuſants,</hi> the ſame day. But if the Que<g ref="char:EOLhyphen"/>ſtion for ingroſſing the Bill paſs in the Negative, then the Queſtion is to be put for rejecting the Bill.</p>
+               <p>If the Queſtion for committing the Bill paſs in the Affirmative, then a Committee is to be named; of which, all thoſe that
+<pb n="47" facs="tcp:35837:26"/>took Exceptions againſt any particulars in the Bill (but not thoſe who ſpake a<g ref="char:EOLhyphen"/>gainſt the whole Bill) are to be, and any Members that pleaſe, may name one a<g ref="char:EOLhyphen"/>piece, but not more to be of that Com<g ref="char:EOLhyphen"/>mittee.</p>
+               <p>10<hi rend="sup">o</hi> 
+                  <hi>Novembr.</hi> 1640. Declared for a Rule, <hi>That at the naming of a Committee, if any man riſe to ſpeak, the Clerk ought not to write.</hi>
+               </p>
+               <p>11<hi rend="sup">o</hi> 
+                  <hi>Novembr.</hi> 1601. Reſolved and Or<g ref="char:EOLhyphen"/>dered upon the Queſtion, <hi>That ſuch Member as declares himſelf againſt the body or ſubſtance of any Bill upon any the readings thereof, ſhall not hereafter be ad<g ref="char:EOLhyphen"/>mitted to be of a Committee in any ſuch Bill, according to former Order uſed in Parliament.</hi>
+               </p>
+               <p>7<hi rend="sup">o</hi> 
+                  <hi>Martii,</hi> 1606. Mr. <hi>Hadley</hi> being aſ<g ref="char:EOLhyphen"/>ſigned of a Committee to confer with the Lords, deſired to be ſpared, he being in opinion againſt the Matter it ſelf; and it was conceived for a Rule, <hi>That no man was to be imployed in any Matter, that had declared himſelf againſt it:</hi> And the Que<g ref="char:EOLhyphen"/>ſtion being put, whether Mr. <hi>Hadley</hi> were to be imployed, It was reſolved, he was not to be imployed.</p>
+               <p>Committees upon Bills have not uſual<g ref="char:EOLhyphen"/>ly
+<pb n="48" facs="tcp:35837:27"/>been leſs then Eight, ſometimes Twen<g ref="char:EOLhyphen"/>ty, ſeldom more in former times; which engaged them to attend it and ſpeed it.</p>
+               <p>12<hi rend="sup">o</hi> 
+                  <hi>Aprilis,</hi> 1604. Upon a Motion made touching the ſlow Proceedings and diſpatch of ſuch Bills and Buſineſs as were depending in the Houſe, which grew, as was ſaid, by the non-attendance of Com<g ref="char:EOLhyphen"/>mittees: It was Ordered, <hi>That if Eight of any Committee do aſſemble, they might proceed to a Reſolution in any Buſineſs of the Houſe.</hi> Formerly, all were to attend.</p>
+               <p>When a competent number are named, the Speaker uſeth to put the Houſe in minde of appointing the time and place of their meeting; at which time the Com<g ref="char:EOLhyphen"/>mittee are to meet, eſpecially thoſe who did make any Exceptions to the Bill. Eight of the perſons named muſt be pre<g ref="char:EOLhyphen"/>ſent to make a Committee, (unleſs where a leſs number of them are appointed to be a Committee, which hath been done ſome<g ref="char:EOLhyphen"/>times in Private Caſes, but ſeldom or ne<g ref="char:EOLhyphen"/>ver in Publique Bills) but Five may ad<g ref="char:EOLhyphen"/>journ.</p>
+               <p>In ſome Caſes the Houſe hath Ordered a Committee to withdraw into the Com<g ref="char:EOLhyphen"/>mittee Chamber preſently, and bring it back ſitting the Houſe; as was done in
+<pb n="49" facs="tcp:35837:27"/>the <hi>Bill for Probate of Suggeſtions in caſes of Prohibitions aforeſaid.</hi>
+               </p>
+               <p>Some Bills of great concernment, and chiefly in Bills to impoſe a Tax, or raiſe Money from the People, are committed to a Committee of the whole Houſe; to the end, there may be opportunity for fuller Debates, for that at a Committee the Members have liberty to ſpeak as oft<g ref="char:EOLhyphen"/>en as they ſhall ſee cauſe, to one Queſtion; and that ſuch Bills being of general con<g ref="char:EOLhyphen"/>cernment, ſhould be moſt ſolemnly pro<g ref="char:EOLhyphen"/>ceeded in, and well weighed; and ſome<g ref="char:EOLhyphen"/>times when a Bill of that nature hath been conceived fit to be made, the Houſe hath thought fit to reſolve themſelves in<g ref="char:EOLhyphen"/>to a Committee, and either there, or in the Houſe, to Vote ſome Heads for dire<g ref="char:EOLhyphen"/>ction of ſuch as ſhall be imployed to pre<g ref="char:EOLhyphen"/>pare the Bill.</p>
+               <p>Any Member of the Houſe may be pre<g ref="char:EOLhyphen"/>ſent at any ſelect Committee, but is not to have any Vote, unleſs he be named to be of the Committee.</p>
+               <p>The Committee are firſt to read the Bill, and then to conſider the ſame by parts.</p>
+               <p>The Preamble, if any be, is uſually con<g ref="char:EOLhyphen"/>ſidered after the other parts of the Bill,
+<pb n="50" facs="tcp:35837:28"/>becauſe, upon the conſideration of the body of the Bill, ſuch alterations may be therein made, as may alſo occaſion the alteration of the Preamble; which will beſt be done laſt.</p>
+               <p>The Committee may not raze, inter<g ref="char:EOLhyphen"/>line, or blot the Bill it ſelf; but muſt in a Paper by it ſelf ſet down the Amend<g ref="char:EOLhyphen"/>ments in this maner: <hi>viz.</hi> In ſuch a <hi>Folio</hi> and ſuch a Line; between ſuch a Word and ſuch a Word, or after ſuch a Word, inſert theſe Words, or omit theſe Words; and in ſtead thereof (if there be cauſe) in<g ref="char:EOLhyphen"/>ſert theſe Words.</p>
+               <p>When the Amendments are all per<g ref="char:EOLhyphen"/>fected, every one being voted ſingly, all of them are to be read at the Committee, and put to the Queſtion, whether the ſame ſhall be reported to the Houſe: When that Vote is to be put, any Mem<g ref="char:EOLhyphen"/>ber of the Committee may move to add to thoſe Amendments, or to amend any other part of the Bill.</p>
+               <p>Otherwiſe, when a Vote is once paſſed at a Committee, the ſame may not be al<g ref="char:EOLhyphen"/>tered, but by the Houſe: ſo the Entry is in the Journal 4<hi rend="sup">o</hi> 
+                  <hi>Iunii,</hi> 1607. Every Queſtion upon the Voices of the Com<g ref="char:EOLhyphen"/>mittee bindeth, and cannot be altered by
+<pb n="51" facs="tcp:35837:28"/>themſelves. And thus every thing agreed to be reported, ought to be reported.</p>
+               <p>If the Vote of the Committee paſs for reporting the Amendments to the Houſe, then one of the Members of the Com<g ref="char:EOLhyphen"/>mittee (which is commonly the Chair<g ref="char:EOLhyphen"/>man) who is beſt acquainted with the Bill, is to be appointed to make the Re<g ref="char:EOLhyphen"/>port; which being done, that Committee is diſſolved, and can act no more without a new power.</p>
+               <p>3<hi rend="sup">o</hi> 
+                  <hi>Martii,</hi> 1606 It was O dered, <hi>That every Committee when they proceeded to Amendment of any Bill committed to them, ſhould alſo amend the Breviate annexed, and make it agree with the Bill.</hi>
+               </p>
+               <p>Reports are uſually to be received dai<g ref="char:EOLhyphen"/>ly, in the firſt place, after the Houſe is full; except there be Bills ingroſſed, which are to take place, and Publique Bills be<g ref="char:EOLhyphen"/>fore Private.</p>
+               <p>The Reporter muſt firſt acquaint the Houſe, That he is to make a Report from ſuch a Committee, to whom ſuch a Bill was committed, and ſtanding in his place, muſt read each of the Amendments with the Coherence in the Bill; and opening the Alterations and the Reaſons of the Committee for ſuch Amendments, until
+<pb n="52" facs="tcp:35837:29"/>he hath gone through all, and then muſt (if he ſit not in the ſeat next the floor) come from his place to the Bar, and ſo come up to the Table, and deliver both the Bill and Amendments to the Clerk, by whom he is to ſtand, while the ſame are twice read; which is to be done by him (without reading any words that are to be omitted, but onely ſuch as are to be in<g ref="char:EOLhyphen"/>ſerted) before any man ſpeak to any of them; and then the Bill, with the Amend<g ref="char:EOLhyphen"/>ments, is to be delivered to the Speaker.</p>
+               <p>4<hi rend="sup">o</hi> 
+                  <hi>Iunii,</hi> 1607. The Bill touching the Union between <hi>England</hi> and <hi>Scotland</hi> ha<g ref="char:EOLhyphen"/>ving been committed, when the Amend<g ref="char:EOLhyphen"/>ments were reported, the whole Bill was by Order of the Houſe firſt read, and then the Amendments by themſelves; which is a ſingle Preſident uſed onely in a Caſe of great weight.</p>
+               <p>After ſuch reading of the Amendments, any Member may ſpeak againſt all, or any of the Amendments, and deſire the Co<g ref="char:EOLhyphen"/>herence to be read; but he is to make all his Objections at once to all the Amend<g ref="char:EOLhyphen"/>ments, without ſpeaking again: onely ſometimes in Matters of great concern<g ref="char:EOLhyphen"/>ment, it hath been deſired, that the A<g ref="char:EOLhyphen"/>mendments be conſidered one by one, and
+<pb n="53" facs="tcp:35837:29"/>ſo put to the Queſtion, and then may he ſpeak to each of them.</p>
+               <p>Exceptions may be taken as well to what is omitted out of the Bill by the Committee, as to what is amended.</p>
+               <p>6<hi rend="sup">o</hi> 
+                  <hi>Junii,</hi> 1604. Amendments being re<g ref="char:EOLhyphen"/>ported to a Bill for providing a godly and learned Miniſtery; a Queſtion was made, Whether the words <hi>(or being no Graduate)</hi> ſtruck out by the Committee, ſhall ſtand in the Bill: and it was upon the Queſtion Ordered to ſtand.</p>
+               <p>Upon this or any other Report from a Committee, the firſt Queſtion ought to be for agreeing with the Report, unleſs the Houſe generally diſlike it.</p>
+               <p>All the Amendments reported by the Committee are to be proceeded in before any new Amendment or <hi>Proviſo</hi> be ad<g ref="char:EOLhyphen"/>mitted, unleſs it be amending the Amend<g ref="char:EOLhyphen"/>ments reported.</p>
+               <p>If there be Exceptions againſt the Amendments reported, which cannot be conveniently amended at the Table, then the Bill is to be recommitted to the ſame Committees.</p>
+               <p>After the Houſe hath proceeded upon all the Amendments reported, there have been ſometimes offered other Amend<g ref="char:EOLhyphen"/>mendments,
+<pb n="54" facs="tcp:35837:30"/>Proviſo's, or additional Clau<g ref="char:EOLhyphen"/>ſes written in Paper, after acquainting the Houſe, with the ſubſtance thereof; which (if the Houſe do approve) are to be read by the Clerk, and opened by the Speaker. After the firſt reading and opening, any perſon may ſpeak for rejecting it, or for a ſecond reading; which, if it come to a Queſtion, the firſt Queſtion to be put, is, Whether it ſhall be read the ſecond time: If that be carried in the Negative, the next Queſtion is for rejecting it.</p>
+               <p>If the Vote paſs for the ſecond reading of ſuch Clauſe or <hi>Proviſo,</hi> then (after reading and opening it as before) is a pro<g ref="char:EOLhyphen"/>per time for Debate thereof, for altera<g ref="char:EOLhyphen"/>tion or laying it aſide, or for committing the ſame with the Bill.</p>
+               <p>But regularly, no ſuch thing ſhould be offered after a commitment, but the ſame ſhould be offered to the Committee, where it may be firſt conſidered and prepared, and ſo the time of the Houſe ſaved.</p>
+               <p>If the Amendments be agreed, and no ſuch Clauſe or <hi>Proviſo</hi> tendered, or being tendered, be agreed; then the Queſtion is to be, That this Bill with the Amend<g ref="char:EOLhyphen"/>ments (and <hi>Proviſo</hi> or Clauſes added, if
+<pb n="55" facs="tcp:35837:30"/>any be) be ingroſſed; at which time any may ſpeak for rejecting the Bill, as well, as upon the firſt or ſecond reading. But if the Vote for ingroſſing paſs in the Affir<g ref="char:EOLhyphen"/>mative, the ſame is to be ingroſſed by the Clerk, and hath uſed to be examined by the Reporter, and one or more of the for<g ref="char:EOLhyphen"/>mer Committee, to take care the ſame be truly ingroſſed; eſpecially if the Amend<g ref="char:EOLhyphen"/>ments be many, and not fairly written.</p>
+               <p>The Title is to be indorſed on the back of the Bill, and not within.</p>
+               <p>All Bills regularly are to be ingroſſed and read a third time; which being in<g ref="char:EOLhyphen"/>groſſed, the Speaker is to put the Houſe in minde thereof, at convenient times, to have them read: And ingroſſed Bills are to be read before any other, unleſs it be of great concernment; in which caſe, the Houſe hath ſometimes Ordered, That ſuch Bill ſhould not be read till Ten of the clock, to the end the Houſe may be full.</p>
+               <p>The Speaker, the day before, doth uſu<g ref="char:EOLhyphen"/>ally acquaint the Houſe, That ſuch Bills are ingroſſed, and that he intends the next day to offer them to be paſſed.</p>
+               <p>7<hi rend="sup">o</hi> 
+                  <hi>Febr.</hi> 18. <hi>Iacobi,</hi> Ordered, <hi>That no Bill be put to paſs till Nine of the clock,
+<pb n="56" facs="tcp:35837:31"/>and notice to be given the day before, That Bills ſhall be paſſed the next day.</hi>
+               </p>
+               <p>24<hi rend="sup">o</hi> 
+                  <hi>April.</hi> 22<hi rend="sup">o</hi> 
+                  <hi>Iacobi,</hi> Ordered, <hi>That all the Members of the Houſe do attend the Houſe half an hour after Seven of the clock, and Bills to be put to paſſage by Eight; and that on Monday next they ſhould be offered to paſsing.</hi>
+               </p>
+               <p>Upon ſuch third reading and opening thereof by the Speaker, as before (the Houſe being acquainted this is the third reading) any Member may then likewiſe ſpeak againſt the whole Bill to throw out the ſame, or to any Clauſe thereof, to be omitted or amended; ſo as ſuch Amend<g ref="char:EOLhyphen"/>ment be in one or few words, which may be done at the Table.</p>
+               <p>A <hi>Proviſo</hi> or Clauſe ingroſſed in Parch<g ref="char:EOLhyphen"/>ment, may after a third reading, and be<g ref="char:EOLhyphen"/>fore the Queſtion for paſſing it, be ten<g ref="char:EOLhyphen"/>dered to be made part of the Bill; but he that tenders it muſt be careful, that the ſame be ſo penned, as that it may paſs as it is, or be capable of an Amendment at the Table, by adding or amending one or few words: elſe it is in danger to be rejected, becauſe it is not regularly to be committed</p>
+               <p>When ſuch <hi>Proviſo</hi> or Clauſe is ſo ten<g ref="char:EOLhyphen"/>dered, the ſubſtance thereof being firſt
+<pb n="57" facs="tcp:35837:31"/>opened to the Houſe, if the Houſe admit the ſame to be read, it is to have the ſame Proceeding, as in the firſt, ſecond, and third Reading of a Bill; and if after the ſecond reading there be no Objection againſt it; or after Debate, when it comes to a Queſtion, the Queſtion is to be put, whether the <hi>Proviſo</hi> or Clauſe ſhall be part of the Bill: If the ſame paſs in the Negative, then the Clerk is to enter a <hi>Me<g ref="char:EOLhyphen"/>morandum</hi> thereof; if in the Affirmative, then an Entry is to be made thereof like<g ref="char:EOLhyphen"/>wiſe; and then he is to File the ſame to the Bill ingroſſed.</p>
+               <p>If while ſuch <hi>Proviſo</hi> or Clauſe is in Debate, any Queſtion be for Amendment thereof, or Addition thereunto, before the <hi>Proviſo</hi> or Clauſe be put to the Queſtion; the Queſtion is to be put, whether ſuch Amendment or Addition ſhall be made. If that paſs in the Negative, and no other be deſired, (which, if it be, is in the like ſort to be proceeded in) the <hi>Proviſo</hi> or Clauſe alone (or if in the Affirmative, then with that Amendment or Addition) is to be put to the Queſtion, whether it ſhall be part of the Bill as before.</p>
+               <p>If the Houſe think fit to amend any thing in an ingroſſed Bill, the ſame, ſo as
+<pb n="58" facs="tcp:35837:32"/>it do not deface the Bill, is to be done at the Table; for after a third reading, no Bill is to be recommitted upon the Matter or Body of the Bill: ſo the Journal, 1610. but the Debate hath been adjourned to another day. If it be the next day, with<g ref="char:EOLhyphen"/>out any other Debates between, then he who ſpake to the body of the Bill the day before, may not ſpeak again to the Bill or any part thereof, no more then he might have ſpoken twice that day.</p>
+               <p>22. <hi>June,</hi> 1604. The Bill for Reſtraint of the exceſſive wearing of Cloth of Gold and Silver, Gold and Silver Lace, &amp;c. was read the third time, and much diſputed; but the time being far ſpent, further Di<g ref="char:EOLhyphen"/>ſpute and the Queſtion was deferred to the next morning.</p>
+               <p>23. <hi>June,</hi> The Diſpute touching the Bill for Apparel was moved and continu<g ref="char:EOLhyphen"/>ed. Upon the Diſpute of that Bill, ſome Members of the Houſe offering to ſpeak, having ſpoken the day before to the ſame Bill: It was agreed for a Rule, <hi>If a Bill be continued in Speech from day to day, one man may not ſpeak twice to the Matter of the ſame Bill.</hi>
+               </p>
+               <p>Or elſe, a Bill hath been committed upon ſome particular Clauſe or <hi>Proviſo,</hi>
+                  <pb n="59" facs="tcp:35837:32"/>which was done in a Caſe in the Fourth Seſſion of Parliament, in the Firſt year of King <hi>James,</hi> upon the <hi>Bill touching Sea-ſands;</hi> and in the third Seſſion of the ſame Parliament, upon the <hi>Bill of Cloth<g ref="char:EOLhyphen"/>ing:</hi> when, upon a Report of the Com<g ref="char:EOLhyphen"/>mittee, the next day, a <hi>Proviſo</hi> was by di<g ref="char:EOLhyphen"/>rection of the Houſe razed out of the Bill, by the Clerk at the Table, and ſo the Bill put to the Queſtion, paſſed.</p>
+               <p>But if the words to be amended may be done at the Table, it is done there without a recommitment.</p>
+               <p>So 6<hi rend="sup">o</hi> 
+                  <hi>Maii,</hi> 1606. It was much diſpu<g ref="char:EOLhyphen"/>ted, whether a Bill ingroſſed, and found fault with, ſhould be recommitted into the Committee Chamber, or amended at the Table: It was reſolved, it ſhould be amended at the Table.</p>
+               <p>When a Bill is read the third time, if any Clauſe be reſolved by the Houſe to be added, not being tendred in Parch<g ref="char:EOLhyphen"/>ment, the ſame ought to be written firſt in Paper, and read twice; and then if it be agreed, and ordered to be ingroſſed and added to the Bill, it is then to be in<g ref="char:EOLhyphen"/>groſſed, and read a third time; and ſo if it be agreed, is to be paſſed with the Bill: Thus it was done in the <hi>Bill to reſtrain the
+<pb n="60" facs="tcp:35837:33"/>Haunting of Ale-houſes</hi> in <hi>Iune,</hi> 1604. where a Clauſe was added, That the Act ſhould continue onely to the end of the Firſt Seſſion of the next Parliament.</p>
+               <p>When all the Clauſes and <hi>Proviſo's</hi> to the Bill are agreed or rejected, and the Debate ended, the Speaker is to ask the pleaſure of the Houſe, whether he ſhall put the Bill to the Queſtion; if it be the general Senſe of the Houſe, and none ſtand up to Speak againſt it, then he is to put the Queſtion Affirmatively and Ne<g ref="char:EOLhyphen"/>gatively.</p>
+               <p>If any Member ſtand up before the Ne<g ref="char:EOLhyphen"/>gative be put, he having not formerly ſpoken to the Matter, he is to be heard.</p>
+               <p>If it paſs in the Affirmative, an Entry is to be made thereof in the Journal Book, as of all other the Proceedings aforeſaid: if in the Negative, the Clerk enters on the back of the Bill, <hi>Daſhed.</hi>
+               </p>
+               <p>11<hi rend="sup">o</hi> 
+                  <hi>Novembr.</hi> 1601. Upon Queſtion after Debate, whether any Member of the Houſe, after having been a Committee in any Bill, may afterwards ſpeak in the Ne<g ref="char:EOLhyphen"/>gative part againſt the ſaid Bill: It was reſolved and ordered upon the Queſtion by the whole Houſe, <hi>That any Member of this Houſe, that hath been or ſhall be a Com<g ref="char:EOLhyphen"/>mittee
+<pb n="61" facs="tcp:35837:33"/>in any Bill, may afterwards ſpeak or argue Negatively to any ſuch Bill, with<g ref="char:EOLhyphen"/>out impeachment, or imputation of breach of former Order:</hi> which ſaid Order and Reſolution, was appointed by the Houſe to be entred for a future Preſident ac<g ref="char:EOLhyphen"/>cordingly.</p>
+               <p>21<hi rend="sup">o</hi> 
+                  <hi>Martii,</hi> 1588. The <hi>Bill for Relief of the City of Lincoln,</hi> was read the third time; and after many Arguments, both for the Bill and againſt it, the Bill was paſſed upon the Queſtion, and the diviſi<g ref="char:EOLhyphen"/>on of the Houſe, with the difference of 53. perſons, <hi>viz.</hi> with the Bill 118. and againſt the Bill 65. Which Differ<g ref="char:EOLhyphen"/>ence being reported to the Houſe, the Bill was afterwards, according to the ancient Orders of the Houſe in ſuch caſes, carried out, and brought in again by Mr. Vice-Chancellor, with the Bill in his hand, followed and attended on with all the Members of the Houſe then pre<g ref="char:EOLhyphen"/>ſent, as well thoſe who had firſt before given their Voices againſt the paſſing the ſaid Bill, as thoſe that had given their Votes with the paſſing of the ſame.</p>
+               <p>The Entry is made in the Journal of the Seſſion of Parliament.</p>
+               <p>4<hi rend="sup">o</hi> 
+                  <hi>Iacobi,</hi> The Queſtion being put for
+<pb n="62" facs="tcp:35837:34"/>paſſing a Bill, the Houſe was divided, the <hi>Yea's</hi> went forth, the <hi>No's</hi> ſate, and it paſſed in the Affirmative: upon Motion, ſuch as ſate againſt the Bill went forth of the Houſe, and brought in the Bill in their hands, which is according to ancient Or<g ref="char:EOLhyphen"/>der, and was now moved, and done once in a Parliament for preſerving the me<g ref="char:EOLhyphen"/>mory of the Order, and ſo expreſſed by the Mover.</p>
+               <p>When a Bill is paſſed after the third reading, there is no further alteration to be made; yet in caſe of an apparent miſ<g ref="char:EOLhyphen"/>take therein, either by falſe writing or otherwiſe, the Houſe hath upon notice thereof, cauſed the ſame to be amended, the day following, in the Houſe; where the Amendments are to be thrice read, and the Bill again paſſed, whereof there was a Preſident in 23<hi rend="sup">o</hi> 
+                  <hi>Eliz.</hi> 20<hi rend="sup">o</hi> 
+                  <hi>Ianuarii.</hi>
+               </p>
+               <p>In paſſing a Bill, the Queſtion is but once put.</p>
+               <p>
+                  <hi>Maii</hi> 18<hi rend="sup">o</hi>. 1604. The <hi>Bill for ſhooting in Guns</hi> was put to the Queſtion, and paſ<g ref="char:EOLhyphen"/>ſed in the Negative, as Mr. Speaker judged; It was urged that the Voice was doubtful, and a double Queſtion preſſed, but forborn, and this Rule agreed: <hi>No double Queſtion upon the paſsing of a Bill,
+<pb n="63" facs="tcp:35837:34"/>though ſometimes upon the committing of it; it is double, if the Voice or Queſtion be not clear.</hi>
+               </p>
+               <p>If it happen that two Bills be depend<g ref="char:EOLhyphen"/>ing at the ſame time, which have ſo near affinity, as they may be fit to be joyned; after they have been twice read, the Houſe hath ſometimes Ordered, that they ſhould be ingroſſed as one Bill: this was done in two Bills concerning Treaſons, as ap<g ref="char:EOLhyphen"/>pears by the Journal Book 16<hi rend="sup">o</hi> 
+                  <hi>Aprilis</hi> 13<hi rend="sup">o</hi> 
+                  <hi>Elizabethae.</hi>
+               </p>
+               <p>A Bill once rejected, is not to be offer<g ref="char:EOLhyphen"/>ed again the ſame Seſſion, unleſs it be al<g ref="char:EOLhyphen"/>tered in ſome material parts.</p>
+               <p>15<hi rend="sup">o</hi> 
+                  <hi>Iunii,</hi> 1604. Upon Debate of a <hi>Bill for reviving divers Statutes, and re<g ref="char:EOLhyphen"/>pealing others,</hi> a Clauſe was added by the Committee, to be inſerted in an <hi>Act of</hi> 35<hi rend="sup">o</hi> 
+                  <hi>Eliz.</hi> Entituled, <hi>An Act to retain the Queens Subjects in their due Obedience;</hi> to this effect, <hi>That the Husband ſhould not pay for the Wives Recuſancy:</hi> which Clauſe was much argued, and a Queſtion propounded.</p>
+               <p>The maner of the Queſtion was diſpu<g ref="char:EOLhyphen"/>ted which way it ſhould be put,
+<list>
+                     <item>Whe<g ref="char:EOLhyphen"/>ther That this Clauſe ſhall ſtand, <hi>or,</hi>
+                     </item>
+                     <item>Whe<g ref="char:EOLhyphen"/>ther That this Clauſe ſhall not ſtand:</item>
+                  </list>
+               </p>
+               <pb n="64" facs="tcp:35837:35"/>
+               <p> and it was agreed for a Rule, <hi>That upon the adding of any new thing, the Queſtion is to be put in the Affirmative; whether it ſhall ſtand upon the continuing of the old: in the Negative, that it ſhall not ſtand.</hi>
+               </p>
+               <p>The Queſtion being, whether the Sta<g ref="char:EOLhyphen"/>tute of 43<hi rend="sup">o</hi> 
+                  <hi>Eliz.</hi> Entituled, <hi>An Act for Explanation of a certain Act made</hi> 13<hi rend="sup">o</hi> 
+                  <hi>E<g ref="char:EOLhyphen"/>lizabethae, &amp;c.</hi> ſhould be continued: and the Houſe being divided, much Diſpute and Difference there was, whether upon this Queſtion the <hi>Yea's</hi> or <hi>No's</hi> ſhould ſit: It was thereupon affirmed and con<g ref="char:EOLhyphen"/>ceived for a Rule, <hi>When any alteration is required of a Law in being, (as in this Caſe) and thereupon the Queſtion put; the</hi> Yea's <hi>muſt ſit ſtill, and the</hi> No's <hi>go forth.</hi>
+               </p>
+               <p>15<hi rend="sup">o</hi> 
+                  <hi>Iunii,</hi> 1604. A Queſtion being, whether a Law, formerly made, ſhould continue till the end of the next Seſſion of Parliament; much difference and di<g ref="char:EOLhyphen"/>ſpute was, whether, upon the Queſtion, the <hi>Yea's</hi> or the <hi>No's</hi> ſhould ſit: Upon a Queſtion put, it was reſolved, the <hi>Yea's</hi> ought to ſit ſtill, and the <hi>No's</hi> to go forth. The Houſe was divided, the Reporters differ in the number, the Houſe divided again; this did not ſatisfie, it being
+<pb n="65" facs="tcp:35837:35"/>affirmed to be contrary to Preſident, and bred much debate, what was to be done: at length, the Houſe was content to let the Queſtion reſt as it was, and thought fit to Order a new Bill for reviving the Law.</p>
+               <p>
+                  <hi>May,</hi> 1604. Reſolved to be entred as the Judgement of this Houſe, <hi>That no Speaker from henceforth ſhall deliver a Bill, whereof the Houſe is poſſeſſed, to any whomſoever, without leave and allowance of the Houſe, but a Copy onely.</hi> Eodem die: <hi>It is no poſſeſsion of a Bill, except the ſame be delivered to the Clerk to be read, or that the Speaker read the Title of it in the Chair.</hi>
+               </p>
+            </div>
+            <div n="10" type="chapter">
+               <pb n="66" facs="tcp:35837:36"/>
+               <head>
+                  <hi>CHAP. X.</hi> Private Bills, and Proceedings on them.</head>
+               <p>WHen there are many Private Bills, the Houſe hath ſometimes ſet a<g ref="char:EOLhyphen"/>part certain times for that Buſineſs onely:</p>
+               <p>As, 7<hi rend="sup">o</hi> 
+                  <hi>Maii,</hi> 1571. It was Ordered, <hi>That the Houſe do begin to ſit on Friday next at Three of the clock in the afternoon, and continue till Five; and ſo every Monday, Wedneſday and Friday, till the end of that Seſsion, the ſame time to be imployed onely in the firſt reading of Private Bills.</hi>
+               </p>
+               <p>And in the firſt Parliament of King <hi>James,</hi> It was Ordered, <hi>That the Houſe ſhould meet at Seven of the clock, and the time till Nine of the clock ſhould be ſpent in reading Private Bills.</hi>
+               </p>
+               <p>When any Private Bills, that is, Bills concerning Private Perſons, Corporati<g ref="char:EOLhyphen"/>ons, or ſome one or more particular Shire, or Counties; or any Publique Bill, wherein is any Clauſe or <hi>Proviſo,</hi> that concerns ſuch Perſon, Corporation, Coun<g ref="char:EOLhyphen"/>ty or Counties, is preferred to the Houſe,
+<pb n="67" facs="tcp:35837:36"/>or in agitation in the Houſe, ſuch perſon or perſons may be heard by themſelves or Council, either at the Bar of the Houſe, if it be deſired, or at a Committee to whom ſuch Bill is committed; whereof are many inſtances.</p>
+               <p>28<hi rend="sup">o</hi> 
+                  <hi>Junii,</hi> 1607. <hi>A Bill for mending the High-ways in the Counties of</hi> Suſſex, Surrey <hi>and</hi> Kent, was rulled to be a Pri<g ref="char:EOLhyphen"/>vate Bill; and it was Ordered, That ordi<g ref="char:EOLhyphen"/>nary Duties ſhould be paid and performed for the ſame, or elſe there ſhould be no further proceeding in it.</p>
+               <p>20<hi rend="sup">o</hi> 
+                  <hi>Aprilis,</hi> 1606. A Bill was ap<g ref="char:EOLhyphen"/>pointed to be read touching the <hi>Fens;</hi> thoſe who followed the Bill, deſired their Council might be heard, to open the ſtate of their Caſe, and the equity and reaſon<g ref="char:EOLhyphen"/>ableneſs of their Petition, before it were read; but it was not admitted: It being declared, That if the Council of the other ſide deſired to be heard, then both ſhould be received, and accordingly it was ruled, <hi>That Council for the mainte<g ref="char:EOLhyphen"/>nance of any Bill, ought not to be heard be<g ref="char:EOLhyphen"/>fore it be oppoſed.</hi>
+               </p>
+               <p>22<hi rend="sup">o</hi> 
+                  <hi>Maii,</hi> 1604. It was moved, That whereas the Prothonotaries of the Court of Common-Pleas found themſelves agrie<g ref="char:EOLhyphen"/>ved
+<pb n="68" facs="tcp:35837:37"/>by a <hi>Bill,</hi> preferred into this Houſe, <hi>for regiſtring Judgements that may im<g ref="char:EOLhyphen"/>peach Purchaſers, &amp;c.</hi> being now ingroſ<g ref="char:EOLhyphen"/>ſed, their Council might be heard at the Bar upon the third reading; and there<g ref="char:EOLhyphen"/>upon it was Ordered, <hi>That Council on all parts intereſſed, ſhould be heard on Thurſ<g ref="char:EOLhyphen"/>day following;</hi> and upon hearing Council, the Bill was daſhed.</p>
+               <p>7<hi rend="sup">o</hi> 
+                  <hi>Maii,</hi> 1604. It was moved, That in the Proceedings of a <hi>Bill for confirmation of the Lands of</hi> Henry Butler, <hi>
+                     <abbr>Eſq</abbr> upon the marriage of his Son,</hi> there might be no<g ref="char:EOLhyphen"/>tice given by Mr. Speaker to the ſaid <hi>Henry:</hi> which was Ordered, and a Letter written accordingly.</p>
+               <p>In the ſame Seſſion it was moved, That in the Caſe between <hi>Le-Grice</hi> and <hi>Cot<g ref="char:EOLhyphen"/>terel,</hi> notice might be given by Letter un<g ref="char:EOLhyphen"/>der Mr. Speakers hand, before any fur<g ref="char:EOLhyphen"/>ther proceeding; and that Council and Witneſſes might be heard at the Com<g ref="char:EOLhyphen"/>mittee: which was Ordered.</p>
+               <p>In the Caſe of a Bill between the Earl of <hi>Hertford</hi> and Mr. <hi>Seymour,</hi> Council was heard at the Bar, the Earl of <hi>Hert<g ref="char:EOLhyphen"/>ford</hi> and the Lord <hi>Henry Seymour</hi> his bro<g ref="char:EOLhyphen"/>ther came into the Houſe, and were ad<g ref="char:EOLhyphen"/>mitted to come within the Bar, and to
+<pb n="69" facs="tcp:35837:37"/>ſit upon ſtools with their Heads covered.</p>
+               <p>11<hi rend="sup">o</hi> 
+                  <hi>Febr.</hi> 1557. In the Parliament 4. and 5. <hi>Phil. &amp; Mariae,</hi> the Abbot of <hi>Weſtminſter</hi> had leave to come with his Council, to the Bar of the Commons, touching his claim to the Sanctuary of <hi>Weſtminſter;</hi> and accordingly he came the next day in perſon into the Houſe, and produced ſeveral Patents to make good his Claim; and had a further time given for himſelf and his Council to be heard.</p>
+               <p>4<hi rend="sup">o</hi> 
+                  <hi>Maii,</hi> 1607. The Council on both ſides were heard at the Bar in the Houſe upon the <hi>Bill for the Marſhalſea.</hi>
+               </p>
+               <p>11<hi rend="sup">o</hi> 
+                  <hi>Novemb.</hi> 1640. It is Declared as a conſtant Order of the Houſe, That if a Witneſs be brought to the Houſe, the Houſe ſitting, the Bar is to be down; otherwiſe, if the Houſe be in a Com<g ref="char:EOLhyphen"/>mittee.</p>
+            </div>
+            <div n="11" type="chapter">
+               <pb n="70" facs="tcp:35837:38"/>
+               <head>
+                  <hi>CHAP. XI.</hi> In What Caſes Members are to withdraw.</head>
+               <p>18<hi rend="sup">o</hi> 
+                  <hi>JAcobi,</hi> Upon the Report from the Committee for Priviledges, touch<g ref="char:EOLhyphen"/>ing Election for <hi>Gatton,</hi> Sir <hi>Henry Brit<g ref="char:EOLhyphen"/>tain</hi> being concerned, and offering to ſpeak in his own Caſe; it was reſolved up<g ref="char:EOLhyphen"/>on long Debate, <hi>he ſhould be heard to in<g ref="char:EOLhyphen"/>form the Houſe, and then go forth.</hi>
+               </p>
+               <p>21<hi rend="sup">o</hi> 
+                  <hi>Iacobi,</hi> A <hi>Bill</hi> which concerned <hi>the Maſter and Fellows of Magdalen Colledge in Cambridge,</hi> being read the ſecond time, and in Debate, It was moved, that Dr. <hi>Gooch</hi> Maſter of <hi>Magdalen</hi> Colledge (who ſerved for the Univerſity) and ſo a party, ought to withdraw; It was reſolved, <hi>He may firſt ſpeak, and then withdraw.</hi>
+               </p>
+               <p>
+                  <hi>Iune,</hi> 1604. A Bill for eſtabliſhment of divers Manors, &amp;c. of the late Duke of <hi>Somerſet,</hi> being offered to the Queſtion of commitment; it was moved, That Mr. <hi>Seymour,</hi> a Member of the Houſe and party to the Bill, might go forth during the Debate: which was conceived to be agreeable to former Orders and Preſi<g ref="char:EOLhyphen"/>dents
+<pb n="71" facs="tcp:35837:38"/>in like Caſes, and was ſo Ordered, and Mr. <hi>Seymour</hi> went preſently forth of doors.</p>
+               <p>When any Complaint is made againſt a Member, or Exceptions taken to any thing ſpoken by him, (after he hath been heard to explain himſelf, if he deſire, or the Houſe command it, which is uſually done by him ſtanding in his place) if the Houſe be not ſatisfied, but fall into De<g ref="char:EOLhyphen"/>bate thereof, ſuch Member is to with<g ref="char:EOLhyphen"/>draw; as in the ſeveral Caſes of Doctor <hi>Parry,</hi> the Chancellor of the Dutchy and others, appears.</p>
+            </div>
+            <div n="12" type="chapter">
+               <pb n="72" facs="tcp:35837:39"/>
+               <head>
+                  <hi>CHAP. XII.</hi> Cenſures of Members for offenſive Words or Miſbehavior.</head>
+               <p>THough freedom of Speech and De<g ref="char:EOLhyphen"/>bates be another undoubted Privi<g ref="char:EOLhyphen"/>ledge of the Houſe; yet whatſoever is ſpoken in the Houſe, is ſubject to the cen<g ref="char:EOLhyphen"/>ſure of the Houſe: and where they finde cauſe (as, <hi>In licitis facile fines tranſgre<g ref="char:EOLhyphen"/>dimur</hi>) offences of this kind have been ſeverely puniſhed, by calling the perſon to the Bar, to make ſubmiſſion; commit<g ref="char:EOLhyphen"/>ting him to the Tower, (being the uſual Priſon to which the Commons did com<g ref="char:EOLhyphen"/>mit Delinquents) expelling the Houſe; diſabling him to be a Member during that Parliament, and ſometimes of any future Parliament.</p>
+               <p>The Entries in the Journal I finde to be as followeth:</p>
+               <p>17. <hi>May,</hi> 1572. Upon ſundry Motions made by divers Members of the Houſe, It was Ordered, That <hi>Arthur Hall</hi> 
+                  <abbr>Eſq</abbr> for ſundry Speeches uſed by him in the Houſe and abroad, ſhould be warned by the Ser<g ref="char:EOLhyphen"/>jeant, to be at the Houſe on Monday fol<g ref="char:EOLhyphen"/>lowing,
+<pb n="73" facs="tcp:35837:39"/>and at the Bar, to anſwer Matters charged againſt him; and all ſuch perſons as had noted his Words, either in the Houſe or abroad, were forthwith to meet, and ſet down the ſame Words in writing, and deliver the ſame to the Speaker.</p>
+               <p>On Monday following, Mr. <hi>Hall</hi> was brought to the Bar by the Serjeant, was charged with ſeveral Articles, and con<g ref="char:EOLhyphen"/>feſſed his folly; and humbly ſubmitted himſelf to the Houſe, and was remitted.</p>
+               <p>8. <hi>Febr.</hi> 1575. <hi>P. W.</hi> 
+                  <abbr>Eſq</abbr> one of the Burgeſſes of <hi>Tregony</hi> in the County of <hi>Cornwal,</hi> was, for unreverend and undu<g ref="char:EOLhyphen"/>tiful Words uttered by him in the Houſe, touching the Queen, ſequeſtred; that the Houſe might proceed to conference and conſideration of his ſaid Speech: upon Debate whereof he was committed to the Serjeants Ward, as Priſoner, and ſo re<g ref="char:EOLhyphen"/>maining, ſhould be examined upon his ſaid Speech, for extenuating his fault therein.</p>
+               <p>The next day a Report was made of his examination and confeſſion of the Words; he was brought to the Bar by the Ser<g ref="char:EOLhyphen"/>jeant, received this Judgement by the mouth of Mr. Speaker,</p>
+               <p>That he ſhould be committed cloſe
+<pb n="74" facs="tcp:35837:40"/>priſoner to the Tower, till the Houſe ſhould take further conſideration con<g ref="char:EOLhyphen"/>cerning him.</p>
+               <p>4<hi rend="sup">o</hi> 
+                  <hi>Febr.</hi> 1580. Being the third Seſſion of the Fourth Parliament of Queen. <hi>Eli<g ref="char:EOLhyphen"/>zabeth</hi> 23. Year of her reign, complaint was made in the Houſe againſt <hi>Arthur Hall</hi> 
+                  <abbr>Eſq</abbr> before named, who had cauſed a Book to be printed, wherein was pub<g ref="char:EOLhyphen"/>liſhed the Conferences of the Houſe; and in it was contained matter of Reproach againſt ſome particular Members of the Houſe, derogatory to the general Autho<g ref="char:EOLhyphen"/>rity, Power, and State of the Houſe, and prejudicial to the validity of the Proceed<g ref="char:EOLhyphen"/>ings of the ſame. The matter was refer<g ref="char:EOLhyphen"/>red to a Committee to examine, and up<g ref="char:EOLhyphen"/>on Report thereof, and bringing the ſaid Mr. <hi>Hall</hi> to the Bar ſeveral times to An<g ref="char:EOLhyphen"/>ſwer; he was ſentenced by the Houſe, to be committed to the Tower, (as the pri<g ref="char:EOLhyphen"/>ſon proper to this Houſe) there to remain for the ſpace of Six moneths, and ſo much longer, as until he ſhould himſelf willing<g ref="char:EOLhyphen"/>ly make a Retractation of the ſaid Book, to the ſatisfaction of the Houſe, or of ſuch Order as the Houſe ſhould make during that Seſſion.</p>
+               <p>That the ſaid <hi>Arthur Hall</hi> ſhould be
+<pb n="75" facs="tcp:35837:40"/>fined to the Queen Five hundred pounds for his ſaid Offence.</p>
+               <p>That he ſhould be preſently ſevered and cut off from being a Member of this Houſe during this Parliament, and a Writ to iſſue for Election of a new Burgeſs, for the Borough of <hi>Grantham,</hi> in his ſtead.</p>
+               <p>That the ſaid Book ſhould be deemed, and adjudged falſe and erroneous.</p>
+               <p>Thereupon, the ſaid Mr. <hi>Hall</hi> was brought to the Bar, unto whom Mr. Speaker, in the name of the whole Houſe, pronounced the ſaid Judgement, in form aforeſaid; and the Serjeant was com<g ref="char:EOLhyphen"/>manded to take charge of him, and to convey him to the Tower, and deliver him to the Lieutenant of the Tower, by Warrant of this Houſe to be ſigned by the Speaker.</p>
+               <p>18. <hi>March,</hi> 1580. He having conti<g ref="char:EOLhyphen"/>nued priſoner in the Tower, without any Retractation, the Houſe appointed a Committee to allow the ſaid Retractati<g ref="char:EOLhyphen"/>on, and to Report it to the Houſe at the next Seſſion.</p>
+               <p>It appeareth by the Journal 21. <hi>No<g ref="char:EOLhyphen"/>vember,</hi> 1586. That he was diſabled for ever to ſerve in Parliament.</p>
+               <p>17. <hi>December,</hi> 1584. A Bill againſt
+<pb n="76" facs="tcp:35837:41"/>Jeſuits and Seminary Prieſts paſſed upon the Queſtion: Dr. <hi>Parry</hi> onely gave a Negative; and after inveighed in violent Speeches againſt the whole Bill. Upon which, he was ſequeſtred from the Houſe into the outer room, into the hands of the Serjeant, and not to confer with any while the Houſe was in Debate of that Bu<g ref="char:EOLhyphen"/>ſineſs. Afterwards he was brought to the Bar, and there kneeling, was told by the Speaker, If he thought fit, the Houſe was content to hear his Reaſons; but he re<g ref="char:EOLhyphen"/>fuſing, was committed to the Serjeants Ward.</p>
+               <p>The next day he was brought to the Bar, and kneeling, confeſſed he had undu<g ref="char:EOLhyphen"/>tifully behaved himſelf; and had raſhly, and unadviſedly uttered thoſe Speeches he had uſed; and was, with all his heart, very ſorry for it: Alledging withal, he had never been of the Houſe till that Seſſion, and ſo could not ſo well know the Orders of the Houſe as he ſhould do; and that he would not henceforth willingly offend the Houſe, nor any one man in it; and ſo hum<g ref="char:EOLhyphen"/>bly prayed their good favor towards him. Whereupon, being again ſequeſtred out of the Houſe, after ſome Arguments and Debates, it was reſolved, Upon this ac<g ref="char:EOLhyphen"/>knowledgement
+<pb n="77" facs="tcp:35837:41"/>of his fault, and his hum<g ref="char:EOLhyphen"/>ble ſubmiſſion, he ſhould be received into this Houſe again, as a Member thereof, and take his place as before, ſo that he would ſtill afterwards behave himſelf in good ſort as he ought to do: and there<g ref="char:EOLhyphen"/>upon, being called again to the Bar, and there kneeling, and directly reiterating his former Confeſſion of his fault, and humble ſubmiſſion, with promiſe of better demeanor, he was readmitted.</p>
+               <p>13. <hi>Febr.</hi> 1606. Upon a Report made in the Houſe, of the Remembrances for<g ref="char:EOLhyphen"/>merly ſet down of the particulars of a Conference, the Speaker offering to read the Paper, and being interrupted by ſome Motions and Diſputes, whether they ſhould be read one by one, and ſo deba<g ref="char:EOLhyphen"/>ted, or all at once: in that difference, one of the Knights for <hi>Buckinghamſhire,</hi> with a loud voice (not ſtanding up bare-headed, as the Order is) preſſed to have them read. The Houſe obſerving his earneſt<g ref="char:EOLhyphen"/>neſs, and maner of ſitting and calling, for Orders ſake urged him to ſtand up and ſpeak. He ſtood up, and pretending to offer ſome Reaſons, fell into an Invective againſt the Scots, much diſtaſting the Houſe; yet out of a common care to ex<g ref="char:EOLhyphen"/>pedite
+<pb n="78" facs="tcp:35837:42"/>the weighty Buſineſs then in hand, his Speech was neglected without Tax or cenſure.</p>
+               <p>But on Monday following it was re<g ref="char:EOLhyphen"/>membred, and his words of Offence reci<g ref="char:EOLhyphen"/>ted in particular; the Gentleman being abſent, was ſent for by the Serjeant.</p>
+               <p>Touching the maner of proceeding in this Caſe, many Motions and Queſtions were moved: as, whether to name a Committee to conſider therewith to charge him. 2. Whether to cenſure him upon their own knowledge, without other Circumſtances, the fault being apparent. 3. Whether to charge him in general, or with the particular Word. Much was ſaid upon theſe. Queſtions <hi>pro</hi> and <hi>contra,</hi> and the Preſidents of <hi>Parry</hi> and <hi>Throck<g ref="char:EOLhyphen"/>morton</hi> remembred, wherein, for Words ſpoken in the Houſe, the proceeding was by the Houſe, and not by Committee; the Offences generally charged, and pu<g ref="char:EOLhyphen"/>niſhed, and the Words put in oblivion: and ſo in this Caſe, the Judgement and Proceeding reſolved to be accordingly.</p>
+               <p>The Serjeant having brought the Of<g ref="char:EOLhyphen"/>fender, it was moved he might be heard at the Bar, which was aſſented unto; and after he had ſpoken, he was commanded
+<pb n="79" facs="tcp:35837:42"/>to retire; and not long after, was called in again to the Bar, where kneeling, Mr. Speaker acquainted him, ſince the Offence was ſo apparently hainous, the Houſe did not hold it fit, that any particulars ſhould be named, or to give any Reaſon of their Judgement, but the Order was, He ſhould be carried to the priſon of the Tower, and there remain during the pleaſure of the Houſe: and that he ſhould be diſmiſſed from his place of Knight of the Shire for <hi>Bucks,</hi> and a new Writ to iſſue for a new Choice.</p>
+               <p>15. <hi>Febr.</hi> 18. <hi>Jacobi,</hi> A <hi>Bill</hi> being read the ſecond time <hi>for the better Obſervation of the Sabbath:</hi> one of the Members made an Invective againſt it, and ſomething which ſeemed to reflect on a Member of the Houſe who preſented it, as ſavouring of a Puritan and a factious Spirit. Ex<g ref="char:EOLhyphen"/>ceptions were taken at the Words. After he had explained himſelf, he was ordered to withdraw out of the Houſe; and De<g ref="char:EOLhyphen"/>bate being had, he was called to the Bar, and upon his knees, received the Judge<g ref="char:EOLhyphen"/>ment of the Houſe pronounced by the Speaker: That he ſhould be diſcharged from the Service of the Houſe; with an in<g ref="char:EOLhyphen"/>timation, that his Judgement was very
+<pb n="80" facs="tcp:35837:43"/>merciful, for that the Houſe might for ſo exorbitant an Offence, have impriſoned and further puniſhed him.</p>
+               <p>3. <hi>April,</hi> 1604. In a Debate upon a Bill, a Member of the Houſe uttered ſome Speeches highly diſtaſting the Houſe; but no notice was taken of it till the Bill was committed, and then the Words being repeated, he was called to the Bar, where he made his excuſe, and was pardoned.</p>
+               <p>26. <hi>April,</hi> 1641. Great offence was taken by the Houſe at words ſpoken by Mr. <hi>J. H.</hi> He was firſt heard to explain himſelf, and then commanded to withdraw, and was called to the Bar, and ſuſpended the Houſe during that Seſſion of Parliament.</p>
+               <p>27. <hi>May,</hi> 1641. A paper was brought in containing Words ſpoken by Mr. <hi>Taylor</hi> a Member of the Houſe, concerning the paſſing the Bill of Attainder of the Earl of <hi>Strafford:</hi> who being heard to explain himſelf, and then commanded to with<g ref="char:EOLhyphen"/>draw; after ſome Debate in the Houſe, it was reſolved, That he ſhould be expel<g ref="char:EOLhyphen"/>led the Houſe; be made uncapable of ever being a Member of this Houſe; and ſhould forthwith be committed priſoner to the Tower, there to remain during the plea<g ref="char:EOLhyphen"/>ſure of the Houſe; and ſhould make an
+<pb n="81" facs="tcp:35837:43"/>acknowledgement of his Offence, both at the Bar and at <hi>Windſor</hi> publiquely. And he was called to the Bar, and there kneel<g ref="char:EOLhyphen"/>ing, Mr. Speaker pronounced the Sentence accordingly.</p>
+               <p>Of later times it hath been obſerved, as moſt conducing to the ſervice of the Houſe, that if in Debate, Words be let fall that give Offence, Exceptions ſhould be taken the ſame day, and before ſuch Mem<g ref="char:EOLhyphen"/>ber go out of the Houſe; or he who is offended may move, That ſuch perſon may not go out of the Houſe, until he hath given ſatisfaction in what was by him ſpoken. And in ſuch Caſe, after the pre<g ref="char:EOLhyphen"/>ſent Debate is over, the Words muſt be repeated by the perſon excepting; and in caſe he deſire, or the Houſe command him, he is to explain himſelf, ſtanding in his place; which, if he refuſe to do, or the Houſe be not ſatisfied with ſuch Ex<g ref="char:EOLhyphen"/>planation, then he is to withdraw: But neither is this to interrupt the preſent Buſineſs of the Houſe, as in the caſes be<g ref="char:EOLhyphen"/>fore mentioned; nor if it be omitted that day, hath it been recalled afterwards to avoid miſtakes, and out of a willingneſs rather to paſs by, then take occaſion of Offence.</p>
+               <pb n="82" facs="tcp:35837:44"/>
+               <p> 13. <hi>May,</hi> 12<hi rend="sup">o</hi> 
+                  <hi>Jacobi,</hi> Upon report of the Amendments to the Bill for the due obſervation of the Sabbath day, complaint was made that ſome indignity was offered to Sir <hi>R. Owen,</hi> when he was in the Chair at the Committee, by Sir <hi>W. H.</hi> that told him he was partial; and by Sir <hi>R. K.</hi> who took him by the hand, and told him, he would pull him out of the Chair, that he ſhould put no more tricks upon the Houſe.</p>
+               <p>Sir <hi>W. H.</hi> being preſent, made an ac<g ref="char:EOLhyphen"/>knowledgement of his error, which upon the Queſtion was taken for a good ſatiſ<g ref="char:EOLhyphen"/>faction.</p>
+               <p>Sir <hi>R. K.</hi> was Ordered by the Houſe to acknowledge his error at the Bar.</p>
+               <p>19<hi rend="sup">o</hi> 
+                  <hi>Jacobi,</hi> Some ſpeeches paſſing in the Houſe privately between two of the Members, and ſome offence taken, which ſeems was not intended to be given; one one of them in going down the Parliament ſtairs ſtruck the other; who thereupon catched at a ſword then in his mans hand to ſtrike with it. Upon complaint made of it to the Houſe, they were both of them ordered to attend the Houſe. Being come, be who gave the blow was called in, and ſtanding (not at the Bar, but) by the
+<pb n="83" facs="tcp:35837:44"/>Bar, was examined by Mr. Speaker, con<g ref="char:EOLhyphen"/>feſſed the giving the blow, inſiſted on the provocation, and withdrew. The other was alſo called in, to relate the truth. After he had made the relation, and was likewiſe withdrawn, and teſtimo<g ref="char:EOLhyphen"/>ny given by a Member of the Houſe who heard the Words; the Houſe proceeded to Sentence againſt Mr. <hi>C.</hi> who ſtruck the blow: he being brought to the Bar, there on his knees he received Judgement, which was pronounced by the Speaker, That he ſhould be committed to the Tower during the pleaſure of the Houſe.</p>
+            </div>
+            <div n="13" type="chapter">
+               <pb n="84" facs="tcp:35837:45"/>
+               <head>
+                  <hi>CHAP. XIII.</hi> Calling the Houſe.</head>
+               <p>THere are two ends of Calling the Houſe.</p>
+               <p n="1">1. To diſcover whether any were in the Houſe, who are not returned by the Clerk of the Commonwealth (formerly called the Clerk of the Crown) in Chan<g ref="char:EOLhyphen"/>cery; it having been accounted a great Crime, and ſeverely puniſhed.</p>
+               <p>5<hi rend="sup">o</hi> 
+                  <hi>Martii,</hi> 1557. In the Parliament held 4 <hi>&amp;</hi> 5<hi rend="sup">o</hi> 
+                  <hi>Phil. &amp; Mariae,</hi> I finde this Entry:</p>
+               <p>For that <hi>Chriſtopher Perne</hi> affirmed, that he is returned a Burgeſs for <hi>Plimpton</hi> in <hi>Devon,</hi> and hath brought no Warrant thereof to the Houſe, nor is returned hi<g ref="char:EOLhyphen"/>ther by the Clerk of the Crown, by Book or Warrant; he is awarded to be in the cuſtody of the Serjeant, till the Houſe have further conſidered.</p>
+               <p>It appears by that Book afterwards, that he was choſen a Burgeſs, and ad<g ref="char:EOLhyphen"/>mitted.</p>
+               <p>9. <hi>January,</hi> 1562. In the ſecond Par<g ref="char:EOLhyphen"/>liament of Queen <hi>Elizabeth,</hi> For that it
+<pb n="85" facs="tcp:35837:45"/>ſeemed to the Houſe, being very full, that there were a greater number then was returned; therefore the Names were im<g ref="char:EOLhyphen"/>mediately called over, and as they were called, departed out of the Houſe.</p>
+               <p>7<hi rend="sup">o</hi> 
+                  <hi>Febr.</hi> 1588. The Houſe was called, and every one anſwered to his name, and departed out of the Houſe as they were called.</p>
+               <p n="2">2. But chiefly the Calling the Houſe, is to diſcover what Members are abſent without leave of the Houſe, or juſt cauſe; in which caſe, Fines have been impoſed. And on this occaſion, if the Houſe be called, the maner hath been to call over the Names, and each Member to ſtand up at the mention of his name, uncovering his head. Such as are preſent are marked, and the Defaulters called over again the ſame day, ſometimes the day after, ſome<g ref="char:EOLhyphen"/>times ſummoned, ſometimes ſent for by the Serjeant.</p>
+               <p>19. <hi>June,</hi> 1607. The Houſe was called by the general Book of Names, in order as they were ſet down by the Clerk of the Crown at the beginning of the Parlia<g ref="char:EOLhyphen"/>ment, (ſo it is there entred) The Clerk called every one by his name; the perſon called, if preſent, riſeth up bare-headed,
+<pb n="86" facs="tcp:35837:46"/>and anſwereth; if abſent, he is either ex<g ref="char:EOLhyphen"/>cuſed, and ſo entred, <hi>viz.</hi>
+                  <list>
+                     <item>either <hi>Licentiatur per ſpeciale ſervitium.</hi>
+                     </item>
+                     <item>either <hi>Excuſatur ex gratia.</hi>
+                     </item>
+                     <item>either <hi>Aegrotat.</hi>
+                     </item>
+                  </list> If none Excuſe him, he is entred, <hi>Deficit.</hi>
+               </p>
+               <p>That no perſon may ſit in the Houſe until he be ſo returned, as aforeſaid, ap<g ref="char:EOLhyphen"/>pears by ſeveral Inſtances of perſons who were not Members; and for coming into the Houſe, were brought to the Bar, and ſome committed; and ſome ſworn, before they departed, to keep ſecret what they had heard there.</p>
+            </div>
+            <div n="14" type="chapter">
+               <pb n="87" facs="tcp:35837:46"/>
+               <head>
+                  <hi>CHAP. XIV.</hi> Petitions in Parliament.</head>
+               <p>PEtitions are uſually preſented by Members of the ſame County; if they be concerning private Perſons, they are to be ſubſcribed, and the perſons pre<g ref="char:EOLhyphen"/>ſenting them, called in to the Bar to avow the ſubſtance of the Petition, eſpecially if it be a Complaint againſt any.</p>
+               <p>So 18. <hi>November,</hi> 1640. one <hi>Vivers</hi> preſented a Petition in the name of the Major, Aldermen, Burgeſſes, and other Inhabitants of <hi>Bambury,</hi> was called in, and did acknowledge the hand to the Pe<g ref="char:EOLhyphen"/>tition to be his; and that he did deliver it by order, and on behalf of the Town of <hi>Bambury,</hi> and thereupon it was com<g ref="char:EOLhyphen"/>mitted.</p>
+               <p>The like, in the ſame Parliament, upon reading the Petition of one <hi>Ward</hi> of <hi>Sa<g ref="char:EOLhyphen"/>lop:</hi> And likewiſe on reading the Petition of <hi>Henry Hoogan.</hi>
+               </p>
+            </div>
+            <div n="15" type="chapter">
+               <pb n="88" facs="tcp:35837:47"/>
+               <head>
+                  <hi>CHAP. XV.</hi> Priviledge of Parliament.</head>
+               <p>IT is often mentioned in the Journals upon Debates, That Priviledge was due <hi>eundo, morando, redeundo,</hi> for the per<g ref="char:EOLhyphen"/>ſons of Members, and their neceſſary Ser<g ref="char:EOLhyphen"/>vants; and in ſome caſes for their Goods and Eſtates alſo during that time.</p>
+               <p>Some Queſtion hath been touching the time in which the Priviledge is to be al<g ref="char:EOLhyphen"/>lowed, and the maner how it is to be obtained.</p>
+               <p>For the firſt, the Preſidents are very numerous for allowing <hi>Priviledge</hi> during the Seſſion.</p>
+               <p n="1">1. For their own perſons, They have been priviledged from Suits, Arreſts, Im<g ref="char:EOLhyphen"/>priſonments, attendance on Trials, ſer<g ref="char:EOLhyphen"/>ving in Juries, and the like; yea, from be<g ref="char:EOLhyphen"/>ing ſummoned or called to attend upon any Suit in other Courts by <hi>Subpoena</hi> ſer<g ref="char:EOLhyphen"/>ved on them. To begin with the latter.</p>
+               <div type="legal_procedure">
+                  <head>Subpoena.</head>
+                  <p>In the Parliament 4<hi rend="sup">o</hi> 
+                     <hi>&amp;</hi> 5<hi rend="sup">o</hi> 
+                     <hi>Phil. &amp; Mariae,</hi> 29. <hi>January,</hi> 1557. <hi>Thomas En<g ref="char:EOLhyphen"/>nys</hi> Burgeſs for the Borough of <hi>Thusk,</hi> complained that a <hi>Subpoena</hi> was delivered him to appear in Chancery, and required
+<pb n="89" facs="tcp:35837:47"/>the Priviledge of the Houſe; whereupon Sir <hi>Clement Higham</hi> and Mr. Recorder of <hi>London</hi> were ſent to the Lord Chan<g ref="char:EOLhyphen"/>cellor to revoke the Proces.</p>
+                  <p>And albeit an Entry is made in the Journal 10<hi rend="sup">o</hi> 
+                     <hi>Februarii,</hi> 1584. 26<hi rend="sup">o</hi> 
+                     <hi>Eli<g ref="char:EOLhyphen"/>zabethae,</hi> That upon Motion made touch<g ref="char:EOLhyphen"/>ing the opinion of the Houſe for Privi<g ref="char:EOLhyphen"/>ledge, in caſe of a <hi>Subpoena</hi> ſerved out of the Chancery upon Mr. <hi>Richard Cook</hi> a Member of the Houſe: It was Ordered, That the Recorder of <hi>London,</hi> and two other Members of the Houſe attended by the Serjeant, ſhould repair preſently in the name of the whole Houſe, into the body of the Court of Chancery, and there to ſignifie to the Lord Chancellor and Maſter of the Rolls, That by the ancient Liberties of this Houſe, the Members of the ſame are priviledged from being ſer<g ref="char:EOLhyphen"/>ved with <hi>Subpoena's;</hi> and to require with<g ref="char:EOLhyphen"/>al, not onely the diſcharge of Mr. <hi>Cook's</hi> Appearance, but from thenceforth, to grant Priviledge for other Members, upon the requeſt of the Houſe ſignified under the Speakers hand; which Mr. Recorder and the reſt did accordingly. But they return this anſwer, That the Lord Chan<g ref="char:EOLhyphen"/>cellor told them, he knew no ſuch Privi<g ref="char:EOLhyphen"/>ledge
+<pb n="90" facs="tcp:35837:48"/>touching <hi>Subpoena's,</hi> and would not allow it, unleſs the Houſe did prove it had been allowed alſo in that Court of Chan<g ref="char:EOLhyphen"/>cery: whereupon, Preſidents were direct<g ref="char:EOLhyphen"/>ed to be viewed; but within few days af<g ref="char:EOLhyphen"/>ter the Parliament ended.</p>
+                  <p>Yet the practice in ſucceeding times de<g ref="char:EOLhyphen"/>clares the Priviledge, as appears by the Inſtance following, (which was the next Year after) and theſe that follow, with a multitude more which might be men<g ref="char:EOLhyphen"/>tioned.</p>
+                  <p>27<hi rend="sup">o</hi> 
+                     <hi>Eliz.</hi> One <hi>Kirle</hi> having cauſed a <hi>Subpoena</hi> out of the Star-Chamber to be ſerved on a Member of the Commons Houſe; and for want of Appearance, ta<g ref="char:EOLhyphen"/>ken out an Attachment, and inforced the payment of Money to diſcharge the ſame: the ſaid <hi>Kirle</hi> was committed till he had paid Coſts to the perſon ſerved, and made a ſubmiſſion to the Houſe on his knees at the Bar.</p>
+                  <p>15<hi rend="sup">o</hi> 
+                     <hi>Maii,</hi> 1604. A <hi>Subpoena</hi> out of the Chancery to appear, was ſerved on the perſon of Sir <hi>Robert Needham</hi> Knight, a Member of Parliament: upon complaint thereof, the Serjeant was ſent to Attach the body of him who ſerved the <hi>Subpoena.</hi>
+                  </p>
+                  <p>7<hi rend="sup">o</hi> 
+                     <hi>Maii,</hi> 1607. The Serjeant was ſent
+<pb n="91" facs="tcp:35837:48"/>for <hi>Edward Throckmorton,</hi> for ſerving a <hi>Subpoena</hi> on Sir <hi>Oliver Cromwel.</hi>
+                  </p>
+                  <p>14<hi rend="sup">o</hi> 
+                     <hi>Maii,</hi> 19<hi rend="sup">o</hi> 
+                     <hi>Jacobi,</hi> Upon complaint of the ſervice of a <hi>Subpoena</hi> on a Member of this Houſe, Sir <hi>Edward Coke</hi> vouched a Preſident; 10<hi rend="sup">o</hi> 
+                     <hi>Edvardi</hi> 3<hi rend="sup">i</hi> That a <hi>Sub<g ref="char:EOLhyphen"/>poena</hi> being ſerved on the Clerk of this Houſe, the party was committed for breaking the Priviledge of this Houſe.</p>
+                  <p>4<hi rend="sup">o</hi> 
+                     <hi>Maii,</hi> 1607. A <hi>Subpoena</hi> out of the Exchequer being ſerved on Sir <hi>R. Pawlet</hi> a Member of the Houſe; the Houſe thought fit to grant Priviledge, and that the ſame courſe ſhould be taken, as in other the like caſes are uſual: <hi>viz.</hi> The Serjeant by his Mace to Attach the par<g ref="char:EOLhyphen"/>ties Delinquents, and to bring them to the Bar, to receive the Judgement of the Houſe; and Mr. Speaker the next day wrote a Letter to the Lord chief Baron, that no further Proces do iſſue againſt the ſaid Sir <hi>R. Pawlet.</hi>
+                  </p>
+                  <p>3<hi rend="sup">o</hi> 
+                     <hi>Decemb.</hi> 19<hi rend="sup">o</hi> 
+                     <hi>Jacobi,</hi> Upon occaſion of a <hi>Subpoena</hi> ſerved on Mr. <hi>Breeriton,</hi> it was agreed by the whole Houſe, That the ſerving of a <hi>Subpoena</hi> upon a Member of this Houſe, knowing him to be a Parlia<g ref="char:EOLhyphen"/>ment man, is a Breach of Priviledge, and <hi>Napper</hi> who ſerved the <hi>Subpoena</hi> was com<g ref="char:EOLhyphen"/>mitted.</p>
+               </div>
+               <div type="legal_procedure">
+                  <pb n="92" facs="tcp:35837:49"/>
+                  <head>Arreſt.</head>
+                  <p>33<hi rend="sup">o</hi> 
+                     <hi>Eliz.</hi> The Sheriffs of <hi>London</hi> were fined by the Commons, and ſent to the Tower, for not delivering a Burgeſs ar<g ref="char:EOLhyphen"/>reſted for Debt, ſitting the Parliament.</p>
+                  <p>6 <hi>April,</hi> 1593. The Serjeant at the Mace who arreſted Mr. <hi>Neal,</hi> a Member of this Houſe, upon an Execution; as alſo <hi>Weblin,</hi> at whoſe Suit he was arreſted, contrary to the Priviledge of this Houſe, were this day brought to the Bar, and were both committed priſoners to the Tower; and the Serjeant at Arms attend<g ref="char:EOLhyphen"/>ing this Houſe, was ordered to deliver them over to the Lieutenant of the Tower.</p>
+               </div>
+               <div type="legal_procedure">
+                  <head>
+                     <g ref="char:V">Ʋ</g>tlary.</head>
+                  <p>13. <hi>May,</hi> 1607. <hi>Nicholas Allen</hi> an A<g ref="char:EOLhyphen"/>torney, and <hi>Palmer,</hi> at whoſe Suit Mr. <hi>Martin,</hi> a Member of this Houſe, was out<g ref="char:EOLhyphen"/>lawed, were ordered to be ſent for by the Serjeant, and brought to the Bar to an<g ref="char:EOLhyphen"/>ſwer their Contempt.</p>
+               </div>
+               <div type="legal_procedure">
+                  <head>Attachment.</head>
+                  <p>In the ſame Parliament, there being Complaint, that an Attachment was taken
+<pb n="93" facs="tcp:35837:49"/>forth againſt Mr. <hi>Bellingham,</hi> a Member of this Houſe, out of the Court of Chan<g ref="char:EOLhyphen"/>cery, for a Contempt; the Houſe order<g ref="char:EOLhyphen"/>ed to have Priviledge, and a Letter was ordered to be ſent to Mr. <hi>Evelin,</hi> one of the ſix Clerks, to ſtay the Suit.</p>
+               </div>
+               <div type="legal_procedure">
+                  <head>Iſſues.</head>
+                  <p>A Writ of Petition being iſſued out, a Writ was directed to the Sheriff, to levy xx.l. Iſſues upon Sir <hi>Robert Oxenbridge,</hi> for Non-appearance; the ſame was com<g ref="char:EOLhyphen"/>plained of, and the Houſe granted Privi<g ref="char:EOLhyphen"/>ledge, with this, That if the Iſſues were not diſcharged before the next day at night, the parties Delinquent were the day after to be brought to the Bar by the Serjeant.</p>
+               </div>
+               <div type="legal_procedure">
+                  <head>Tryals.</head>
+                  <p>14. <hi>May,</hi> 1576. Sir <hi>Edward Montague</hi> a Member of the Houſe, was warned to attend a Tryal in <hi>London,</hi> which was to be had againſt him; and was by Order of the Houſe priviledged; and the party that gave the warning, was ſummoned to ap<g ref="char:EOLhyphen"/>pear at the Bar the next morning.</p>
+                  <p>21. <hi>Febr.</hi> 1588. Upon Motion made
+<pb n="94" facs="tcp:35837:50"/>by divers Members of the Houſe, having Writs of <hi>Niſi prius</hi> brought againſt them, that Writs of <hi>Superſedeas</hi> might be a<g ref="char:EOLhyphen"/>warded, in reſpect of the Priviledge of this Houſe, due to the Members: It was Ordered, That thoſe Members of the Houſe, who have occaſion of ſuch Privi<g ref="char:EOLhyphen"/>ledge, ſhould declare their Caſe to the Speaker, who ſhall thereupon direct the Warrant of this Houſe to the Lord Chan<g ref="char:EOLhyphen"/>cellor, for awarding ſuch Writ of <hi>Super<g ref="char:EOLhyphen"/>ſedeas.</hi>
+                  </p>
+                  <p>3<hi rend="sup">o</hi> 
+                     <hi>Martii,</hi> 18<hi rend="sup">o</hi> 
+                     <hi>Jacobi,</hi> Upon a Report from a Committee appointed to conſider of a way of ſtaying Tryals againſt Mem<g ref="char:EOLhyphen"/>bers of the Houſe; That by ſeveral Pre<g ref="char:EOLhyphen"/>ſidents, the Cuſtom appeared to be in ſuch Caſes, That on Motions and Orders in the Houſe, Letters were written to the Juſtices of Aſſize for ſtay of Tryals againſt Members of the Houſe; which Letters were entred in the Journal Book, and that it belongeth to the Clerk to write the ſame. It was thereupon reſolved, That the former courſe of writing Letters to the Juſtices of Aſſize, ſhould be held ac<g ref="char:EOLhyphen"/>cording to former Preſidents.</p>
+                  <p>10<hi rend="sup">o</hi> 
+                     <hi>Junii,</hi> 1607. Sir <hi>Robert Johnſon</hi> a Member of the Houſe moved for a Letter
+<pb n="95" facs="tcp:35837:50"/>to ſtay a Tryal againſt him in the Exche<g ref="char:EOLhyphen"/>quer, which was granted, as appeareth by the Entry on the 13<hi rend="sup">th</hi> day, when a Petition of Sir <hi>Robert Brett</hi> was read againſt that Priviledge. The Priviledge formerly granted was affirmed, upon this Reaſon, That no man ſhould have any thing to withdraw him from his Service in the Houſe. The like 14<hi rend="sup">o</hi> 
+                     <hi>Feb.</hi> 18<hi rend="sup">o</hi> 
+                     <hi>Jacobi.</hi>
+                  </p>
+                  <p>And ſo much this Priviledge hath been inſiſted on by the Houſe, that it hath been a Queſtion, Whether any Member of the Houſe could conſent that himſelf ſhould be ſued during the Seſſion; becauſe the Priviledge is not the perſons ſo much as the Houſes: And therefore, when any perſon hath been brought to the Bar for any Offence of this nature, the Speaker hath uſually charged the perſon in the name of the whole Houſe, as a breach of the Priviledge of the Houſe.</p>
+                  <p>And when, 3. <hi>Iune,</hi> 1607. Sir <hi>Thomas Holeroft</hi> a Member of the Houſe, had oc<g ref="char:EOLhyphen"/>caſion to ſue at Law, and was ſued, with which he was content, and deſired the leave of the Houſe; there was a Queſtion, whether the Houſe ſhould give leave for a breach of Priviledge; and it was reſol<g ref="char:EOLhyphen"/>ved, <hi>The Houſe might give leave.</hi>
+                  </p>
+               </div>
+               <div type="legal_procedure">
+                  <pb n="96" facs="tcp:35837:51"/>
+                  <head>Iuries.</head>
+                  <p>7<hi rend="sup">o</hi> 
+                     <hi>Maii,</hi> 1607. Sir <hi>Thomas Bigg</hi> and Sir <hi>Thomas Love,</hi> being returned upon an Attaint in the Kings Bench; it being mo<g ref="char:EOLhyphen"/>ved, that in this Caſe they ought to have Priviledge: it was ſo ordered, and the Ser<g ref="char:EOLhyphen"/>jeant ſent with his Mace, to deliver the pleaſure of the Houſe to the Secundary, the Court ſitting.</p>
+                  <p>22<hi rend="sup">o</hi> 
+                     <hi>Novemb.</hi> 1597. Sir <hi>Iohn Tracy,</hi> a Member of this Houſe, being at the Com<g ref="char:EOLhyphen"/>mon-Pleas Bar, to be put upon a Jury; the Serjeant at Arms was preſently ſent with his Mace to fetch him thence, to at<g ref="char:EOLhyphen"/>tend his Service in the Houſe.</p>
+               </div>
+               <div type="legal_procedure">
+                  <head>Commitment.</head>
+                  <p>
+                     <hi>April</hi> 12<hi rend="sup">o</hi> 
+                     <hi>Iacobi,</hi> Sir <hi>William Bampſield</hi> was committed by the Lord Chancellor for a Contempt, after the Writ of Sum<g ref="char:EOLhyphen"/>mons, but before the Election. Ordered upon the Queſtion, That he ſhall have his Priviledge by Writ of <hi>Habeas corpus.</hi>
+                  </p>
+               </div>
+               <div type="legal_procedure">
+                  <head>Sheriff.</head>
+                  <p>1<hi rend="sup">o</hi> 
+                     <hi>Iacobi</hi> 2<hi rend="sup">d</hi> 
+                     <hi>Seſſ.</hi> Sir <hi>Iohn Peyton</hi> Knight for <hi>Cambridge,</hi> being returned the laſt
+<pb n="97" facs="tcp:35837:51"/>Seſſion, and ſince choſen Sheriff; Mr. Speaker moved to know the pleaſure of the Houſe, Whether he ſhould attend his Service here: And it was reſolved upon the Queſtion in the Houſe, he ſhould at<g ref="char:EOLhyphen"/>tend his Service here.</p>
+               </div>
+               <div type="legal_procedure">
+                  <head>Priviledge to Servants.</head>
+                  <p>Priviledge was alſo granted to the <hi>Ser<g ref="char:EOLhyphen"/>vants</hi> of <hi>Members</hi> during the ſitting of Parliament.</p>
+                  <p>16<hi rend="sup">o</hi> 
+                     <hi>Febr.</hi> 5<hi rend="sup">o</hi> 
+                     <hi>Eliz. Robert Parker</hi> Ser<g ref="char:EOLhyphen"/>vant to Sir <hi>William Woodhouſe</hi> Knight for <hi>Norfolk,</hi> being attached in <hi>London,</hi> at the Suit of one <hi>Baker,</hi> in a Treſpaſs; had a Warrant of priviledge, notwithſtand<g ref="char:EOLhyphen"/>ing Judgement given againſt him for Four Marks.</p>
+                  <p>20<hi rend="sup">o</hi> 
+                     <hi>Febr.</hi> 18<hi rend="sup">o</hi> 
+                     <hi>Eliz.</hi> 1575. Upon the Queſtion, and alſo upon Diviſion of the Houſe, <hi>Edward Smaley</hi> Servant unto <hi>Ar<g ref="char:EOLhyphen"/>thur Hall</hi> 
+                     <abbr>Eſq</abbr> one of the Burgeſſes for <hi>Grantham,</hi> being arreſted upon an Exe<g ref="char:EOLhyphen"/>cution, had Priviledge.</p>
+                  <p>16<hi rend="sup">o</hi> 
+                     <hi>Decembr.</hi> 44<hi rend="sup">o</hi> 
+                     <hi>Eliz. Anthony Cur<g ref="char:EOLhyphen"/>wen</hi> Servant to <hi>William Huddleſton</hi> 
+                     <abbr>Eſq</abbr> one of the Knights of <hi>Cumberland,</hi> being arreſted upon a <hi>Capias ad ſatisfaciendum,</hi>
+                     <pb n="98" facs="tcp:35837:52"/>out of the Common-Pleas, for Six pounds Debt and Forty ſhillings Damages, and detained in Execution; a <hi>Superſedeas</hi> was awarded, and he was delivered.</p>
+                  <p>11<hi rend="sup">o</hi> 
+                     <hi>Maii</hi> 19<hi rend="sup">o</hi> 
+                     <hi>Iacobi,</hi> The Underſheriff of <hi>Middleſex</hi> was called to the Bar, for cauſing <hi>Alexander Melling</hi> Servant to the Chancellor of the Dutchy to be arreſted; he denied he knew him to be his Servant: Mr. Speaker let him know, the Houſe had ordered him to have Priviledge; and therefore ordereth the Underſheriff to diſcharge him.</p>
+                  <p n="2">2. Seſſion of the Parliament 1<hi rend="sup">o</hi> 
+                     <hi>Iacobi,</hi> Sir <hi>Edward Sandys</hi> moveth a breach of Priviledge by Sir <hi>Robert Leigh</hi> a Juſtice of Peace, for committing his Coachman to <hi>Newgate:</hi> Sir <hi>Robert Leigh</hi> was ſent for by the Serjeant, and an <hi>Habeas corpus</hi> for the priſoner. Sir <hi>Robert Leigh</hi> being brought to the Bar, acknowledged his fault, and was diſcharged, and ſo was the priſoner.</p>
+                  <p>3<hi rend="sup">o</hi> 
+                     <hi>Maii,</hi> 1606. <hi>Valentine Syre</hi> Servant and Bag-bearer to the Clerk of the Com<g ref="char:EOLhyphen"/>mons Houſe, being arreſted upon an Exe<g ref="char:EOLhyphen"/>cution, was by Order and Judgement of the Houſe enlarged.</p>
+                  <p>7<hi rend="sup">o</hi> 
+                     <hi>Sep.</hi> 1601. <hi>Woodal</hi> Servant of <hi>William
+<pb n="99" facs="tcp:35837:52"/>Cook</hi> 
+                     <abbr>Eſq</abbr> a Member of the Houſe, being arreſted, and in priſon in <hi>Newgate;</hi> the Serjeant at Arms was preſently ſent to <hi>Newgate</hi> to bring him to the Houſe, <hi>ſe<g ref="char:EOLhyphen"/>dente Curia;</hi> and being brought to the Bar with his Keeper, was diſcharged by Order of the Houſe from his ſaid Keeper, and from his Impriſonment.</p>
+                  <p>1. <hi>Iuly,</hi> 1607. <hi>Iohn Paſmore</hi> the Marſhals man, being ſent for fnd brought to the Bar, for arreſting <hi>Iohn Ieſſop</hi> Waterman, Servant to Sir <hi>Henry Nevil,</hi> a Member of the Houſe; he denied that he knew he was Sir <hi>Henry's</hi> Servant until afterwards; not<g ref="char:EOLhyphen"/>withſtanding, he took an <hi>Aſſumpſit</hi> from him to anſwer the Action: The Houſe thought fit to commit him to the Serjeant till the Houſe's pleaſure were further known, and till he had diſcharged the <hi>Aſſumpſit,</hi> and paid the Fees.</p>
+                  <p>17. <hi>Iune,</hi> 1609. Upon a Report of the Committee for Priviledges, That a menial Servant of Sir <hi>Robert Wroth</hi> was arreſted eight days before this Seſſion; the Serje<g ref="char:EOLhyphen"/>ant was ſent for the priſoner, and the Ser<g ref="char:EOLhyphen"/>jeant that made the arreſt, one <hi>King</hi> who followed it, and <hi>Fiſher</hi> at whoſe Suit he was arreſted.</p>
+                  <p>4<hi rend="sup">o</hi> 
+                     <hi>Junii</hi> 19<hi rend="sup">o</hi> 
+                     <hi>Iacobi, Johnſon</hi> a Servant
+<pb n="100" facs="tcp:35837:53"/>to Sir <hi>James Whitelock,</hi> a Member of the Commons Houſe, was arreſted upon an Execution by <hi>Moor</hi> and <hi>Lock,</hi> who be<g ref="char:EOLhyphen"/>ing told Sir <hi>Iames Whitelock</hi> was a Parlia<g ref="char:EOLhyphen"/>ment man; <hi>Fulk,</hi> one of the proſecutors ſaid, He had known greater mens men then Sir <hi>Iames Whitelock</hi> taken from their Maſters heels in Parliament time. This appearing, <hi>Lock</hi> and <hi>Moor</hi> were cal<g ref="char:EOLhyphen"/>led in to the Bar, and by the Judgement of the Houſe they were ſentenced,
+<list>
+                        <item>1. That at the Bar they ſhould ask for<g ref="char:EOLhyphen"/>giveneſs of the Houſe, and of Sir <hi>Iames Whitelock</hi> on their knees.</item>
+                        <item>2. That they ſhould both ride upon one horſe bare-backed, back to back, from <hi>Weſtminſter</hi> to the <hi>Exchange,</hi> with papers on their breaſts, and this Inſcription, <hi>For Arreſting a Servant of a Member of the Commons Houſe of Parliament:</hi> and this to be preſently done <hi>ſedente Curia;</hi> which judgement was pronounced by Mr. Speaker againſt them at the Bar upon their knees.</item>
+                     </list>
+                  </p>
+                  <p>28<hi rend="sup">o</hi> 
+                     <hi>Aprilis</hi> 22<hi rend="sup">o</hi> 
+                     <hi>Iacobi,</hi> A Warrant was Ordered to be iſſued by the Speaker, for a Writ of Priviledge, to bring up <hi>Andrew Bates</hi> Servant to Mr. <hi>Richard Godfrey</hi> of the Houſe, in Execution with the Sheriff of <hi>Kent,</hi> at the Suit of one <hi>Hunt.</hi>
+                  </p>
+               </div>
+               <div type="legal_procedure">
+                  <pb n="101" facs="tcp:35837:53"/>
+                  <head>Goods.</head>
+                  <p>That the Members of this Houſe have alſo Priviledge for their Goods, is not without ſome Preſident.</p>
+                  <p>12. <hi>March,</hi> 1606. Complaint was made by Mr. <hi>Iames,</hi> a Burgeſs of Parliament, That his horſe ſtanding at his Inn, was taken by the Poſt-maſters ſervant; both the Poſt-maſter and his ſervant were ſent for, and brought to the Bar: <hi>Moreton</hi> the Poſt-maſter appearing to be ignorant of what his ſervant had done, and diſ<g ref="char:EOLhyphen"/>avowing it, was by Order of the Houſe diſcharged. But upon the teſtimony of a witneſs at the Bar, that he told the ſer<g ref="char:EOLhyphen"/>vant when he took the horſe, That a Member of Parliament was owner of it, the ſervant was committed.</p>
+               </div>
+               <div type="legal_procedure">
+                  <head>In Adjournments.</head>
+                  <p>During the Adjournment, like Privi<g ref="char:EOLhyphen"/>ledge was granted and affirmed.</p>
+                  <p>In <hi>December,</hi> 1606. <hi>Thomas Finch</hi> a ſervant to Sir <hi>Nicholas Sandys</hi> Knight, one of the Burgeſſes for <hi>Quinborough,</hi> was arreſted during the Adjournment; which being conceived to be a great Contempt
+<pb n="102" facs="tcp:35837:54"/>to the Priviledge of the Houſe, an <hi>Habeas corpus</hi> was awarded to bring him to the Houſe, and he was accordingly brought, and alſo one <hi>Knight,</hi> who procured the arreſt, and <hi>Harriſon</hi> the Yeoman.</p>
+                  <p>The excuſe was, <hi>Finch</hi> was an Attorney at Law, yet it being avowed by Sir <hi>Nicho<g ref="char:EOLhyphen"/>las Sandys,</hi> that <hi>Finch</hi> lay in his houſe, ſo<g ref="char:EOLhyphen"/>licited his Cauſes, and received Wages from him; and it being inſiſted on, that all menial and neceſſary ſervants are to be priviledged, and inſtance given of a Pre<g ref="char:EOLhyphen"/>ſident of the Baron of <hi>Walton's</hi> Solicitor, and <hi>Huddleſton's</hi> Solicitor, in the time of Queen <hi>Elizabeth:</hi> upon the Queſtion, <hi>Finch</hi> was priviledged, and delivered ac<g ref="char:EOLhyphen"/>cording to the ſaid Preſidents.</p>
+                  <p>During that Adjournment, a Suit was proſecuted in the Court of Wards againſt <hi>Nicholas Potts</hi> 
+                     <abbr>Eſq</abbr> and <hi>Francis Wethered</hi> Gent. Committees of a Ward which con<g ref="char:EOLhyphen"/>cerned Mr. <hi>Nicholas Davyes,</hi> ſervant to the then Speaker, as Aſſignee of the Ward. The Speaker by virtue of a former general Order of the Houſe, wrote a Let<g ref="char:EOLhyphen"/>ter to Sir <hi>Cuthbert Pepper</hi> Surveyor of the Court of Wards and Liveries, to make known to the Court, That the ſaid <hi>Davyes</hi> was one of his Clerks, and neareſt Ser<g ref="char:EOLhyphen"/>vants,
+<pb n="103" facs="tcp:35837:54"/>and the Priviledge now as warrant<g ref="char:EOLhyphen"/>able as in time of ſitting; and there<g ref="char:EOLhyphen"/>fore prayed him and the Court to take notice of it.</p>
+                  <p>During another Adjournment in <hi>March</hi> following, the Speaker warranted by the like general Order, at the deſire of Sir <hi>Edmund Ludlow,</hi> who was ſummoned to attend the Execution of a Commiſſion out the Chancery, wrote a Letter to the Com<g ref="char:EOLhyphen"/>miſſioners to excuſe his attendance, and that he ſhould not be prejudiced by his abſence.</p>
+                  <p>In <hi>May,</hi> 1607. during an Adjournment, the Speaker directed a Letter to the Lord Preſident and Council at <hi>York,</hi> to ſtay Proceedings in a Suit againſt <hi>Talbot Bowes</hi> a Member of this Houſe.</p>
+               </div>
+               <div type="legal_procedure">
+                  <head>Priviledge, as well before as after the Parliament.</head>
+                  <p>The great Queſtion is, within what time this Priviledge may be claimed before, and after the ſitting of the Parliament. It is clear, it hath been claimed and allowed for ſome time before, and after the ſit<g ref="char:EOLhyphen"/>ting. One Preſident may ſerve, becauſe it is famous, and for the proceedings in it <hi>inſtar omnium.</hi>
+                  </p>
+                  <pb n="104" facs="tcp:35837:55"/>
+                  <p> 1<hi rend="sup">o</hi> 
+                     <hi>Iacobi,</hi> The firſt day of ſitting, com<g ref="char:EOLhyphen"/>plaint was made, That Sir <hi>Thomas Shirley</hi> choſen a Member of the Houſe, was ar<g ref="char:EOLhyphen"/>reſted four days before the ſitting of this Parliament; a Warrant iſſued to the Clerk of the Crown for a <hi>Habeas corpus,</hi> to bring him to the Houſe, being then pri<g ref="char:EOLhyphen"/>ſoner in the <hi>Fleet;</hi> and the Serjeant and his Yeoman were ſent for in cuſtody, who being brought to the Bar, and confeſſing their fault, were remitted for that time: The Writ being not executed, the Houſe fell again into Debate touching the Pri<g ref="char:EOLhyphen"/>viledge, and how the Debt to the party might be ſatisfied, becauſe the Debt was gone if the party were delivered; and thereupon came to three Queſtions,
+<list>
+                        <item>1. Whether Sir <hi>Thomas Shirley</hi> ſhall have Priviledge.</item>
+                        <item>2. Whether preſently, or to be defer<g ref="char:EOLhyphen"/>red till further Order.</item>
+                        <item>3. Whether the Houſe ſhould be pe<g ref="char:EOLhyphen"/>titioners to the King, according to for<g ref="char:EOLhyphen"/>mer Preſidents, for ſome courſe, for ſecu<g ref="char:EOLhyphen"/>ring the Debt to the party, and ſaving harmleſs the Warden of the <hi>Fleet.</hi> All which Queſtions were reſolved in the Af<g ref="char:EOLhyphen"/>firmative, and a Bill drawn to ſecure <hi>Simpſons</hi> Debt, &amp;c. which alſo produced
+<pb n="105" facs="tcp:35837:55"/>a Bill for relief of Plaintiffs in Writs of Execution, where the Defendants in ſuch Writs are arreſted, and ſet at liberty by Priviledge of Parliament.</item>
+                     </list>
+                  </p>
+                  <p>17. <hi>April,</hi> Upon hearing Council in the Houſe at the Bar, for Sir <hi>Thomas Shirley</hi> and the Warden of the <hi>Fleet;</hi> and upon ſhewing divers Preſidents, 39. <hi>Hen.</hi> 6. one <hi>Clark</hi> taken in Execution before the Parliament begun, was priviledged. 30. <hi>Hen.</hi> 6. <hi>Ferrers</hi> Caſe in <hi>Holling sheads</hi> Chronicle; the Caſe of <hi>Huddleſton's</hi> ſer<g ref="char:EOLhyphen"/>vant before remembred; this being ad<g ref="char:EOLhyphen"/>ded, that his Body was freed, but his Lands and Goods left ſubject. It was Or<g ref="char:EOLhyphen"/>dered, That <hi>Simpſon</hi> at whoſe Suit, and the Serjeant by whom the arreſt was made, ſhould be commiteed to the Tower.</p>
+                  <p>4. <hi>May</hi> following, an <hi>Habeas corpus</hi> was awarded to the Warden, to bring Sir <hi>Thomas Shirley</hi> to the Houſe; the War<g ref="char:EOLhyphen"/>den denied to execute it, for which 7. <hi>May</hi> following, he was ſent for by the Serje<g ref="char:EOLhyphen"/>ant, and brought to the Bar, who deny<g ref="char:EOLhyphen"/>ing to bring his priſoner, a new Writ of <hi>Habeas corpus</hi> was awarded, and the War<g ref="char:EOLhyphen"/>den was committed to the Serjeant, with this, That if that Writ were not executed,
+<pb n="106" facs="tcp:35837:56"/>then he ſhould be delivered over to the Lieutenant of the Tower, as the Houſe's priſoner.</p>
+                  <p>8. <hi>May,</hi> The Serjeant was ſent with his Mace to the <hi>Fleet,</hi> the Houſe ſitting, to require the Body of Sir <hi>Thomas Shir<g ref="char:EOLhyphen"/>ley,</hi> being directed by the Houſe to purſue the Preſident of <hi>Ferrers,</hi> recorded in <hi>Hollingshead's</hi> Chronicle, and in the Book of Juriſdiction of Courts by <hi>Crompton:</hi> but the Serjeant being denied, a Warrant was made to the Scrjeant, to deliver the Warden of the <hi>Fleet</hi> to the Lieutenant of the Tower, to be kept cloſe priſoner.</p>
+                  <p>11. <hi>May,</hi> The Warden was again ſent for, and brought to the Bar, and refuſing to deliver up his priſoner, he was commit<g ref="char:EOLhyphen"/>ted to the place called the Dungeon, or Little-eaſe, in the Tower.</p>
+                  <p>14. <hi>May,</hi> A new Warrant was order<g ref="char:EOLhyphen"/>ed for a new Writ of <hi>Habeas corpus,</hi> and that the Serjeant ſhould go with the Writ; that the Warden ſhould be brought to the Door of the <hi>Fleet</hi> by the Lieute<g ref="char:EOLhyphen"/>nant himſelf; and there the Writ to be delivered to him, and the Commandment of the Houſe to be made known to him by the Serjeant, for the executing of it. That in the mean time, the Warden to be
+<pb n="107" facs="tcp:35837:56"/>preſently committed to the Dungeon, and after to be returned thither again.</p>
+                  <p>15. <hi>May,</hi> The Warden did deliver Sir <hi>Thomas Shirley,</hi> and ſo was not put into the Dungeon.</p>
+                  <p>19. <hi>May,</hi> He attending at the door, was brought in to the Bar, where, upon his knees, confeſſing his error and pre<g ref="char:EOLhyphen"/>ſumption, and profeſſing he was unfained<g ref="char:EOLhyphen"/>ly ſorry he had ſo offended this Honor<g ref="char:EOLhyphen"/>able Houſe; Upon that ſubmiſſion, by di<g ref="char:EOLhyphen"/>rection of the Houſe, the Speaker pro<g ref="char:EOLhyphen"/>nounced his pardon and diſcharge, pay<g ref="char:EOLhyphen"/>ing ordinary Fees to the Clerk and the Serjeant.</p>
+                  <p>That this Priviledge doth take place by force of the Election, and that before the Return be made, appears by the pro<g ref="char:EOLhyphen"/>ceeding in the Caſe following.</p>
+                  <p>19. <hi>November,</hi> 1601. Upon Informa<g ref="char:EOLhyphen"/>tion to the Houſe, that one <hi>Roger Baſton</hi> Servant unto <hi>Lancton,</hi> Baron of <hi>Walton,</hi> who (upon credible report of di<g ref="char:EOLhyphen"/>vers Members of the Houſe, was affirmed to be choſen a Burgeſs for the Borough of <hi>Newton</hi> in <hi>Lancaſhire,</hi> but not yet re<g ref="char:EOLhyphen"/>turned by the Clerk of the Crown) had been during that Seſſion of Parliament arreſted in <hi>London,</hi> at the Suit of one
+<pb n="108" facs="tcp:35837:57"/>
+                     <hi>Muſcle;</hi> the ſaid <hi>Muſcle,</hi> together with the Officer that made the arreſt, were ſent for by the Serjeant, and brought to the Bar; and there charged by Mr. Speaker, in the name of the whole Houſe, with their Offence herein: and having been heard, <hi>Baſton</hi> was ordered to have Privi<g ref="char:EOLhyphen"/>ledge, and to be diſcharged of his Arreſt and Impriſonment, and the Offenders for three days committed to the Serjeant; and ordered to pay ſuch Charges to <hi>Ba<g ref="char:EOLhyphen"/>ſton,</hi> as the Speaker ſhall ſet down, and their Fees.</p>
+               </div>
+               <div type="legal_procedure">
+                  <head>For how long time before, and after the Parliament.</head>
+                  <p>By theſe Inſtances, as alſo by <hi>Clarks</hi> Caſe, 39. <hi>Hen.</hi> 6. and the Caſe of Sir <hi>Ro<g ref="char:EOLhyphen"/>bert Wroths</hi> Servant before recited, it ap<g ref="char:EOLhyphen"/>peareth, That Priviledge doth take place before the Parliament begin, but for what time is the Queſtion: what appears by the Journal Book tending to clear it, is thus.</p>
+                  <p>6. <hi>March,</hi> 1586. This day <hi>William White</hi> brought to the Bar, for arreſting Mr. <hi>Martin</hi> a Member of the Houſe, made anſwer, That the arreſt was above
+<pb n="109" facs="tcp:35837:57"/>fourteen days before the beginning of the Parliament: the Houſe thereupon ap<g ref="char:EOLhyphen"/>pointed a Committee to ſearch the Pre<g ref="char:EOLhyphen"/>ſidents.</p>
+                  <p>Upon Report made, that Mr. <hi>Martin</hi> was arreſted above twenty days of the be<g ref="char:EOLhyphen"/>ginning of the Parliament, held by proro<g ref="char:EOLhyphen"/>gation; and upon Debate, the Houſe be<g ref="char:EOLhyphen"/>ing divided in opinion about the Pri<g ref="char:EOLhyphen"/>viledge; for the ending the Buſineſs, three Queſtions were propounded by the Speaker.</p>
+                  <p n="1">1. Whether the Houſe would limit a time Certain, or a Reaſonable time, to any Member of the Houſe for his Privi<g ref="char:EOLhyphen"/>ledge?</p>
+                  <p>The Houſe anſwered, <hi>A Coneni<g ref="char:EOLhyphen"/>ent time.</hi>
+                  </p>
+                  <p n="2">2. Whether Mr. <hi>Martin</hi> was arreſted within this Convenient time?</p>
+                  <p>The Houſe anſwered, <hi>Yea.</hi>
+                  </p>
+                  <p n="3">3. If <hi>White</hi> ſhould be puniſhed for arreſting Mr. <hi>Martin?</hi>
+                  </p>
+                  <p>The Houſe anſwered, <hi>No.</hi> And the rea<g ref="char:EOLhyphen"/>ſon is given, Becauſe the arreſt was twen<g ref="char:EOLhyphen"/>ty days before the beginning of the Par<g ref="char:EOLhyphen"/>liament, and the Creditors did not know what ſhould be taken for a Reaſonable time.</p>
+                  <pb n="110" facs="tcp:35837:58"/>
+                  <p> 24. <hi>April,</hi> 1640. It was this day ſaid in the Houſe, and not contradicted, That every Member of the Houſe hath Privi<g ref="char:EOLhyphen"/>ledge for Sixteen days <hi>excluſivè,</hi> and Fif<g ref="char:EOLhyphen"/>teen days <hi>incluſivè,</hi> before, and after eve<g ref="char:EOLhyphen"/>ry Parliament.</p>
+                  <p>The like mention is made in ſeveral Parliaments, by Members in Debate.</p>
+               </div>
+               <div type="legal_procedure">
+                  <head>How Obtained.</head>
+                  <p>For the maner of Obtaining this Privi<g ref="char:EOLhyphen"/>ledge, 22. <hi>March</hi> 18. <hi>Jac.</hi> It was reſol<g ref="char:EOLhyphen"/>ved, That no protection under any mans hand of this Houſe is good.</p>
+                  <p>22. <hi>Febr.</hi> 6. <hi>Edw.</hi> 6. It is Ordered, If any Burgeſs require Priviledge for himſelf or his ſervant, upon declaration thereof to the Speaker, he ſhould have a War<g ref="char:EOLhyphen"/>rant ſigned by Mr. Speaker to obtain the Writ.</p>
+                  <p>22. <hi>Febr.</hi> 18. <hi>Eliz. Aug.</hi> 1575. A re<g ref="char:EOLhyphen"/>port was made by the Attorney of the Dutchy from a Committee, for delivery of <hi>Smaley,</hi> a ſervant to <hi>Arthur Hall,</hi> be<g ref="char:EOLhyphen"/>fore mentioned, That they found no Pre<g ref="char:EOLhyphen"/>ſident, for ſetting at large by the Mace any perſon in arreſt, but onely by Writ. And that by divers Preſidents of Record
+<pb n="111" facs="tcp:35837:58"/>peruſed by them, it appears, That every Knight, Citizen, or Burgeſs of this Houſe, which doth require Priviledge, hath uſed in that Caſe, to take a Corporal Oath be<g ref="char:EOLhyphen"/>fore the Lord Chancellor or Lord Keeper, That the party for whom ſuch Writ is prayed, came up with him, and was his Servant at the time of the arreſt made. But on the 27. <hi>Febr.</hi> after ſundry Rea<g ref="char:EOLhyphen"/>ſons, Arguments, and Diſputations in the Houſe, It was reſolved, That the ſaid <hi>Smaley</hi> ſhould be brought the next day to the Bar by the Serjeant, and ſo ſet at Liberty by warrant of the Mace, and not by Writ.</p>
+                  <p>According to which reſolution, the next day <hi>Smaley</hi> was brought to the Bar in the Houſe by the Serjeant, accompani<g ref="char:EOLhyphen"/>ed with two Serjeants of <hi>London,</hi> and was preſently delivered from his Impriſon<g ref="char:EOLhyphen"/>ment and Execution, according to the former Judgement of this Houſe, and the ſaid Serjeants diſcharged of their ſaid priſoner.</p>
+                  <p>2. <hi>March,</hi> 1592. Upon a Report from the Committee of Priviledges and Electi<g ref="char:EOLhyphen"/>ons, That one Mr. <hi>Fitzherbert</hi> was re<g ref="char:EOLhyphen"/>turned a Burgeſs, and excepted againſt, becauſe he was alledged to be out-lawed,
+<pb n="112" facs="tcp:35837:59"/>and detained upon ſuch Outlawry: the Houſe Ordered, That Mr. Speaker ſhould move the Lord Keeper for an <hi>Habeas corpus cum cauſa,</hi> to bring up the Body and Cauſe of Mr. <hi>Fitzherbert.</hi>
+                  </p>
+                  <p>But the next day Sir <hi>Henry Knivet</hi> en<g ref="char:EOLhyphen"/>tring into a diſcourſe, touching the Privi<g ref="char:EOLhyphen"/>ledges of the Houſe of ancient times, uſed and accuſtomed for the conventing of any perſons into this Court, declared his opi<g ref="char:EOLhyphen"/>nion, That Mr. <hi>Fitzherbert</hi> was rather to be called to appear in this Houſe, by the Serjeants Mace of this Houſe, then any Writ of the Chancery, and quoted a Caſe of <hi>George Ferrers;</hi> but was put in remem<g ref="char:EOLhyphen"/>brance by Mr. Speaker, That the maner for bringing Mr. <hi>Fitzherbert</hi> had received the Order of the Houſe yeſterday, and was therefore now, neither to be recalled, nor further treated of by this Houſe, till the Appearance of the ſaid Mr. <hi>Fitzher<g ref="char:EOLhyphen"/>bert</hi> be firſt made in this Houſe, accord<g ref="char:EOLhyphen"/>ing to the ſaid former Order for the ſame.</p>
+                  <p>On the 7<hi rend="sup">th</hi> of the ſame Moneth, The Houſe being acquainted by Sir <hi>Edward Hobby,</hi> that the Lord Keeper having been moved for a Writ of <hi>Habeas corpus cum cauſa,</hi> for Mr. <hi>Fitzherbert,</hi> his Lordſhip
+<pb n="113" facs="tcp:35837:59"/>thought it beſt, in regard of the ancient Liberties and Priviledges of this Houſe, That the Serjeant at Arms be ſent, by Order of this Houſe, for the ſaid Mr. <hi>Fitz<g ref="char:EOLhyphen"/>herbert,</hi> at his own charge; by reaſon whereof he may be brought hither to the Houſe, without peril of further being ar<g ref="char:EOLhyphen"/>reſted by the way: which was alſo ap<g ref="char:EOLhyphen"/>proved of.</p>
+                  <p>
+                     <hi>Injuries</hi> offered to the Members and their Servants, during the Seſſion, have been uſually puniſhed by the Houſe, up<g ref="char:EOLhyphen"/>on complaint.</p>
+                  <p>29<hi rend="sup">o</hi> 
+                     <hi>Febr.</hi> 1575. One <hi>Williams,</hi> for aſ<g ref="char:EOLhyphen"/>ſaulting a Burgeſs of this Houſe, was up<g ref="char:EOLhyphen"/>on complaint, ſent for by the Serjeant, and brought to the Bar, and committed to the Serjeants Ward.</p>
+                  <p>23<hi rend="sup">o</hi> 
+                     <hi>April.</hi> 1<hi rend="sup">o</hi> 
+                     <hi>Mariae,</hi> One <hi>Monington,</hi> for ſtriking <hi>William Johnſon</hi> a Burgeſs, was ſent for, and confeſſing it, was committed to the Tower.</p>
+                  <p>28<hi rend="sup">o</hi> 
+                     <hi>Nov.</hi> 1601. Complaint being made by Mr. <hi>Fleetwood</hi> a Member of the Houſe, That one <hi>Holland</hi> a Scrivener, and one <hi>Brooks</hi> his ſervant, had evil intreated and beaten the ſervant of the ſaid Mr. <hi>Fleet<g ref="char:EOLhyphen"/>wood</hi> in his preſence; they were both ſent
+<pb n="114" facs="tcp:35837:60"/>for by the Serjeant, and brought to the Bar; and for the ſaid Offence, committed for five days to the Serjeant.</p>
+                  <p>12<hi rend="sup">o</hi> 
+                     <hi>Febr.</hi> 18<hi rend="sup">o</hi> 
+                     <hi>Jacobi,</hi> Mr. <hi>Lovell</hi> a Member of the Houſe, informed, that one <hi>Daryell</hi> threatned his perſon, That for a Speech ſpoken by him in the Houſe, he ſhould be ſent to the Tower during the Parliament, or preſently after: <hi>Daryell</hi> was ſent for by the Serjeant, to anſwer it to the Houſe; and upon teſtimony of it, he was committed to the Serjeant till Thurſday following, and then to acknow<g ref="char:EOLhyphen"/>ledge his fault, or to be committed to the Tower.</p>
+                  <p>16. <hi>Iune,</hi> 1604. Complaint being made of one <hi>Tho: Rogers,</hi> a Currier dwelling in <hi>Coleman-ſtreet,</hi> for abuſing Sir <hi>Iohn Savill</hi> in ſlanderous and unſeemly terms, upon his proceedings, as a Committee, in the Bill touching Tanners, &amp;c. he was ſent for by the Serjeant at Arms to the Bar, to an<g ref="char:EOLhyphen"/>ſwer his offence.</p>
+               </div>
+            </div>
+            <div n="16" type="chapter">
+               <pb n="115" facs="tcp:35837:60"/>
+               <head>
+                  <hi>CHAP. XVI.</hi> Amendment of Returns.</head>
+               <p>18<hi rend="sup">o</hi> 
+                  <hi>JAcobi,</hi> The Sheriff of <hi>Leiceſter<g ref="char:EOLhyphen"/>ſhire</hi> having returned Sir <hi>Thomas Beaumont;</hi> upon Report from the Com<g ref="char:EOLhyphen"/>mittee for Elections, That Sir <hi>George Ha<g ref="char:EOLhyphen"/>ſtings</hi> was duly choſen, the Sheriff was ordered to return Sir <hi>George Haſtings</hi> to the Clerk of the Crown, and he to accept it, and file it.</p>
+               <p>21<hi rend="sup">o</hi> 
+                  <hi>Iacobi,</hi> Upon Report from the Committee of Priviledges, That in the Election of Mr. <hi>Iohn Maynard</hi> for <hi>Chip<g ref="char:EOLhyphen"/>pingham;</hi> Mr. <hi>Iohn Maynard</hi> was choſen, but by a miſtake, <hi>Charls</hi> was afterward written in ſtead of <hi>Iohn.</hi> It was reſolved, The Return ſhould be amended without a new Writ; and the Queſtion being, who ſhould amend it: Reſolved, The Bayliff ſhould do it, and not the Clerk of the Crown; and that it ſhould be ſent down to the Bayliff in the Countrey, and he to return <hi>Iohn Maynard</hi> 
+                  <abbr>Eſq</abbr> the firſt Burgeſs.</p>
+               <p>1<hi rend="sup">o</hi> 
+                  <hi>Febr.</hi> 1640. It being Reſoſved, That the Election of Mr. <hi>Erle</hi> for one of the
+<pb n="116" facs="tcp:35837:61"/>Burgeſſes of <hi>Wareham,</hi> is a good Election; It was Ordered, That the Officer, that was the Officer when the Return was made, or his Deputy, or the Electors, ſhould amend the Return. But the next day it was Ordered, That <hi>Edward Harbin,</hi> the late Mayor of <hi>Wareham's</hi> Deputy, ſhould come to the Bar of the Houſe, and amend the Return.</p>
+               <p>20<hi rend="sup">o</hi> 
+                  <hi>Febr.</hi> 1640. The Bayliff of <hi>Mid<g ref="char:EOLhyphen"/>hurſt</hi> in <hi>Suſſex</hi> came to the Bar, (being ſent for by Order of the Houſe) and amended one of the Indentures of Return of Burgeſſes for that Town, and the other was taken off the File.</p>
+               <trailer>FINIS.</trailer>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="table_of_contents">
+            <pb facs="tcp:35837:61"/>
+            <head>The Contents.</head>
+            <list>
+               <label>CHAP. I.</label>
+               <item>The maner of chuſing a Speaker in Par<g ref="char:EOLhyphen"/>liament. <hi>Fol. 3</hi>
+               </item>
+               <label>CHAP. II.</label>
+               <item>Decorum to be obſerved in the Houſe. <hi>Fol. 6</hi>
+               </item>
+               <label>CHAP. III.</label>
+               <item>Standing Committees. <hi>Fol. 9</hi>
+               </item>
+               <label>CHAP. IV.</label>
+               <item>Power and proceedings of the Committee for Priviledges. <hi>Fol. 10</hi>
+               </item>
+               <label>CHAP. V.</label>
+               <item>Members choſen in ſeveral places. <hi>Fol. 18</hi>
+               </item>
+               <label>CHAP. VI.</label>
+               <item>New Writs for Vacant Places. <hi>Fol. 20</hi>
+               </item>
+               <label>CHAP. VII.</label>
+               <item>Rules and Methods of Debates in the Houſe. <hi>Fol. 21</hi>
+               </item>
+               <label>CHAP. VIII.</label>
+               <item>Grand Committees, and their maner of Proceedings. <hi>Fol. 35</hi>
+               </item>
+               <pb facs="tcp:35837:62"/>
+               <label>CHAP. IX.</label>
+               <item>Publique Bills, and maner of Proceeding on them. <hi>Fol. 40</hi>
+               </item>
+               <label>CHAP. X.</label>
+               <item>Private Bills, and Proceedings on them. <hi>Fol. 66</hi>
+               </item>
+               <label>CHAP. XI.</label>
+               <item>In what Caſes Members are to with<g ref="char:EOLhyphen"/>draw. <hi>Fol. 70</hi>
+               </item>
+               <label>CHAP. XII.</label>
+               <item>Cenſures of Members for offenſive Words or Miſbehavior. <hi>Fol. 72</hi>
+               </item>
+               <label>CHAP. XIII.</label>
+               <item>Calling the Houſe. <hi>Fol. 84</hi>
+               </item>
+               <label>CHAP. XIV.</label>
+               <item>Petitions in Parliament. <hi>Fol. 87</hi>
+               </item>
+            </list>
+            <list>
+               <label>CHAP. XV.</label>
+               <item>
+                  <list>
+                     <item>Priviledge of Parliament. <hi>Fol. 88</hi>
+                     </item>
+                     <item>Subpoena. <hi>ibid.</hi>
+                     </item>
+                     <item>Arreſt. <hi>Fol. 92</hi>
+                     </item>
+                     <item>
+                        <g ref="char:V">Ʋ</g>tlary. <hi>ibid.</hi>
+                     </item>
+                     <item>Attachment. <hi>ibid.</hi>
+                     </item>
+                     <item>Iſſues. <hi>Fol. 93</hi>
+                     </item>
+                     <pb facs="tcp:35837:62"/>
+                     <item>Tryals. <hi>ibid.</hi>
+                     </item>
+                     <item>Iuries. <hi>Fol. 96</hi>
+                     </item>
+                     <item>Commitment. <hi>ibid.</hi>
+                     </item>
+                     <item>Sheriff. <hi>ibid.</hi>
+                     </item>
+                     <item>Priviledge to Servants. <hi>Fol. 97</hi>
+                     </item>
+                     <item>Goods. <hi>Fol. 101</hi>
+                     </item>
+                     <item>In Adjournments. <hi>ibid.</hi>
+                     </item>
+                     <item>Priviledge, as well before as after the Parliament. <hi>Fol. 103</hi>
+                     </item>
+                     <item>For how long time before, and after the Parliament. <hi>Fol. 108</hi>
+                     </item>
+                     <item>How obtained. <hi>Fol. 110</hi>
+                     </item>
+                  </list>
+               </item>
+            </list>
+            <list>
+               <label>CHAP. XVI.</label>
+               <item>Amendment of Returns. <hi>Fol. 115</hi>
+               </item>
+            </list>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:35837:63"/>
+            <pb facs="tcp:35837:63"/>
+         </div>
+      </back>
+   </text>
+</TEI>
